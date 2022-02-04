@@ -63,6 +63,7 @@
 		A755BDA527ACFF93004CADD9 /* Algorithm */ = {
 			isa = PBXGroup;
 			children = (
+				A755BDC027AD079D004CADD9 /* Programmers */,
 				A755BDAD27ACFFFA004CADD9 /* Boj */,
 			);
 			path = Algorithm;
@@ -133,6 +134,13 @@
 			);
 			name = "10828_스택(stack)";
 			path = "10828_스택(stack)";
+			sourceTree = "<group>";
+		};
+		A755BDC027AD079D004CADD9 /* Programmers */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Programmers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
