@@ -28,6 +28,7 @@
 		A755BDB227AD0597004CADD9 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A755BDB527AD05F8004CADD9 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A755BDB727AD0628004CADD9 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		A755BDBC27AD06FD004CADD9 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +69,7 @@
 		A755BDAD27ACFFFA004CADD9 /* Boj */ = {
 			isa = PBXGroup;
 			children = (
+				A755BDBB27AD06EE004CADD9 /* 9093_단어뒤집기 */,
 				A755BDB627AD0617004CADD9 /* 9012_괄호 */,
 				A755BDB427AD05E5004CADD9 /* 1874_스택 수열 */,
 				A755BDB127AD0585004CADD9 /* 1406_에디터 */,
@@ -110,6 +112,15 @@
 			);
 			name = "9012_괄호";
 			path = "9012_괄호";
+			sourceTree = "<group>";
+		};
+		A755BDBB27AD06EE004CADD9 /* 9093_단어뒤집기 */ = {
+			isa = PBXGroup;
+			children = (
+				A755BDBC27AD06FD004CADD9 /* main.swift */,
+			);
+			name = "9093_단어뒤집기";
+			path = "9093_단어뒤집기";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
