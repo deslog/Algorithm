@@ -26,6 +26,7 @@
 		A755BDA327ACFF93004CADD9 /* Algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm; sourceTree = BUILT_PRODUCTS_DIR; };
 		A755BDAF27AD003D004CADD9 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A755BDB227AD0597004CADD9 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		A755BDB527AD05F8004CADD9 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +67,7 @@
 		A755BDAD27ACFFFA004CADD9 /* Boj */ = {
 			isa = PBXGroup;
 			children = (
+				A755BDB427AD05E5004CADD9 /* 1874_스택 수열 */,
 				A755BDB127AD0585004CADD9 /* 1406_에디터 */,
 				A755BDAE27AD0025004CADD9 /* 10845_큐 */,
 			);
@@ -88,6 +90,15 @@
 			);
 			name = "1406_에디터";
 			path = "1406_에디터";
+			sourceTree = "<group>";
+		};
+		A755BDB427AD05E5004CADD9 /* 1874_스택 수열 */ = {
+			isa = PBXGroup;
+			children = (
+				A755BDB527AD05F8004CADD9 /* main.swift */,
+			);
+			name = "1874_스택 수열";
+			path = "1874_스택 수열";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
