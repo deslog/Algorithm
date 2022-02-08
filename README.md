@@ -5,7 +5,7 @@
 강의를 구매하지는 않았고, 문제를 순서대로 풀며 혼자 연습 중에 있습니다. :) 
 문제를 고민하고 풀었던 흔적을 남기고 있습니다 
 
-deslog's blog 👉🏻👩🏻‍💻 ( https://didu-story.tistory.com/category/Algorithm/Baekjoon )
+deslog's blog 👉🏻👩🏻‍💻 ( https://didu-story.tistory.com/category/Algorithm )
 
 ### < 문제 풀이 순서 >
 * 백준 알고리즘 기초 1/2 강의 (현재진행중)
