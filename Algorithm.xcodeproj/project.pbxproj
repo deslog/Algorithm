@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		A7BBD80927B0D15D0050409D /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7BBD80827B0D15D0050409D /* main.swift */; };
+		A7F3729327B4054800E56D8E /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7F3729227B4054800E56D8E /* main.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -33,6 +33,7 @@
 		A75D4C7027AF7E1600655780 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A7A3080B27AE47D5009EF1F2 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A7BBD80827B0D15D0050409D /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		A7F3729227B4054800E56D8E /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +75,7 @@
 		A755BDAD27ACFFFA004CADD9 /* Boj */ = {
 			isa = PBXGroup;
 			children = (
+				A7F3729127B4051F00E56D8E /* 10799_쇠막대기 */,
 				A7BBD80727B0D1360050409D /* 17413_단어뒤집기2 */,
 				A75D4C6F27AF7E0100655780 /* 10866_덱 */,
 				A7A3080A27AE47C1009EF1F2 /* 1158_요세푸스 문제 */,
@@ -175,6 +177,15 @@
 			path = "17413_단어뒤집기2";
 			sourceTree = "<group>";
 		};
+		A7F3729127B4051F00E56D8E /* 10799_쇠막대기 */ = {
+			isa = PBXGroup;
+			children = (
+				A7F3729227B4054800E56D8E /* main.swift */,
+			);
+			name = "10799_쇠막대기";
+			path = "10799_쇠막대기";
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -207,6 +218,7 @@
 				TargetAttributes = {
 					A755BDA227ACFF93004CADD9 = {
 						CreatedOnToolsVersion = 13.2.1;
+						LastSwiftMigration = 1320;
 					};
 				};
 			};
@@ -233,7 +245,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A7BBD80927B0D15D0050409D /* main.swift in Sources */,
+				A7F3729327B4054800E56D8E /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -358,10 +370,17 @@
 		A755BDAB27ACFF93004CADD9 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 82DRSFKFS9;
 				ENABLE_HARDENED_RUNTIME = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@loader_path/../Frameworks",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
@@ -369,9 +388,15 @@
 		A755BDAC27ACFF93004CADD9 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 82DRSFKFS9;
 				ENABLE_HARDENED_RUNTIME = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@loader_path/../Frameworks",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 			};
