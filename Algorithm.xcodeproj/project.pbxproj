@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		A7CF796027B8EC59003C391E /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7CF795F27B8EC59003C391E /* main.swift */; };
+		A7233E6D27BA1E7C009993B0 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7233E6C27BA1E7C009993B0 /* main.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -23,6 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		A7233E6C27BA1E7C009993B0 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A755BDA327ACFF93004CADD9 /* Algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm; sourceTree = BUILT_PRODUCTS_DIR; };
 		A755BDAF27AD003D004CADD9 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A755BDB227AD0597004CADD9 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -50,6 +51,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		A7233E6B27BA1E36009993B0 /* 10809_알파벳 찾기 */ = {
+			isa = PBXGroup;
+			children = (
+				A7233E6C27BA1E7C009993B0 /* main.swift */,
+			);
+			name = "10809_알파벳 찾기";
+			path = "10809_알파벳 찾기";
+			sourceTree = "<group>";
+		};
 		A755BD9A27ACFF93004CADD9 = {
 			isa = PBXGroup;
 			children = (
@@ -78,6 +88,7 @@
 		A755BDAD27ACFFFA004CADD9 /* Boj */ = {
 			isa = PBXGroup;
 			children = (
+				A7233E6B27BA1E36009993B0 /* 10809_알파벳 찾기 */,
 				A7CF795E27B8EC44003C391E /* 10808_알파벳 개수 */,
 				A77C424627B79BC90044AE94 /* 1918_후위표기식 */,
 				A78A19AB27B6556B0007CDD8 /* 1935_후위표기식2 */,
@@ -278,7 +289,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A7CF796027B8EC59003C391E /* main.swift in Sources */,
+				A7233E6D27BA1E7C009993B0 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
