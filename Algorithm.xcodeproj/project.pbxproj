@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		A748F1BF27BE498700EF3683 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A748F1BE27BE498700EF3683 /* main.swift */; };
+		A748F1C227BFC09600EF3683 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A748F1C127BFC09600EF3683 /* main.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -27,6 +27,7 @@
 		A7348CB827BCD37200AD387D /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A7348CBC27BCD6D100AD387D /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A748F1BE27BE498700EF3683 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		A748F1C127BFC09600EF3683 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A755BDA327ACFF93004CADD9 /* Algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm; sourceTree = BUILT_PRODUCTS_DIR; };
 		A755BDAF27AD003D004CADD9 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A755BDB227AD0597004CADD9 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -89,6 +90,15 @@
 			path = 11655_ROT13;
 			sourceTree = "<group>";
 		};
+		A748F1C027BFC08A00EF3683 /* 10824_네 수 */ = {
+			isa = PBXGroup;
+			children = (
+				A748F1C127BFC09600EF3683 /* main.swift */,
+			);
+			name = "10824_네 수";
+			path = "10824_네 수";
+			sourceTree = "<group>";
+		};
 		A755BD9A27ACFF93004CADD9 = {
 			isa = PBXGroup;
 			children = (
@@ -117,6 +127,7 @@
 		A755BDAD27ACFFFA004CADD9 /* Boj */ = {
 			isa = PBXGroup;
 			children = (
+				A748F1C027BFC08A00EF3683 /* 10824_네 수 */,
 				A748F1BD27BE496D00EF3683 /* 11655_ROT13 */,
 				A7348CBA27BCD6A300AD387D /* 10820_문자열 분석 */,
 				A7348CB727BCD36300AD387D /* 2743_단어 길이 재기 */,
@@ -321,7 +332,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A748F1BF27BE498700EF3683 /* main.swift in Sources */,
+				A748F1C227BFC09600EF3683 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
