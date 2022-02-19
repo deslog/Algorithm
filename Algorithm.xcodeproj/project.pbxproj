@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		A748F1C527BFD3FC00EF3683 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A748F1C427BFD3FC00EF3683 /* main.swift */; };
+		A774DE9227C0A57900A2807C /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A774DE9127C0A57900A2807C /* main.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -37,6 +37,7 @@
 		A755BDBC27AD06FD004CADD9 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A755BDBE27AD0740004CADD9 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A75D4C7027AF7E1600655780 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		A774DE9127C0A57900A2807C /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A77C424727B79BDE0044AE94 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A78A19AC27B6557F0007CDD8 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A7A3080B27AE47D5009EF1F2 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -137,6 +138,7 @@
 		A755BDAD27ACFFFA004CADD9 /* Boj */ = {
 			isa = PBXGroup;
 			children = (
+				A774DE9027C0A55F00A2807C /* 17087_숨바꼭질6 */,
 				A748F1C327BFD3DD00EF3683 /* 11656_접미사 배열 */,
 				A748F1C027BFC08A00EF3683 /* 10824_네 수 */,
 				A748F1BD27BE496D00EF3683 /* 11655_ROT13 */,
@@ -228,6 +230,15 @@
 			);
 			name = "10866_덱";
 			path = "10866_덱";
+			sourceTree = "<group>";
+		};
+		A774DE9027C0A55F00A2807C /* 17087_숨바꼭질6 */ = {
+			isa = PBXGroup;
+			children = (
+				A774DE9127C0A57900A2807C /* main.swift */,
+			);
+			name = "17087_숨바꼭질6";
+			path = "17087_숨바꼭질6";
 			sourceTree = "<group>";
 		};
 		A77C424627B79BC90044AE94 /* 1918_후위표기식 */ = {
@@ -343,7 +354,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A748F1C527BFD3FC00EF3683 /* main.swift in Sources */,
+				A774DE9227C0A57900A2807C /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
