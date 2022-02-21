@@ -10,9 +10,12 @@ deslog's blog 👉🏻👩🏻‍💻 ( https://didu-story.tistory.com/category/
 ### < 문제 풀이 순서 >
 * 백준 알고리즘 기초 1/2 강의 (현재진행중)
   * https://code.plus/course/41
+
+
 |  <center>날짜</center> |  <center>문제</center> |  <center>내가 푼 풀이</center> |
 |:--------|:--------:|--------:|
 |**2022.01.16** | <center>백준 10828 스택 (stack) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/10828_%EC%8A%A4%ED%83%9D(stack)/main.swift)* |
+
 
 
 
