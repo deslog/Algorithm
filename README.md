@@ -14,7 +14,13 @@ deslog's blog 👉🏻👩🏻‍💻 ( https://didu-story.tistory.com/category/
 
 |  <center>날짜</center> |  <center>문제</center> |  <center>내가 푼 풀이</center> |
 |:--------|:--------:|--------:|
-|**2022.01.16** | <center>백준 10828 스택 (stack) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/10828_%EC%8A%A4%ED%83%9D(stack)/main.swift)* |
+|**2022.01.16** | <center>백준 1874 스택 수열 </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/10828_%EC%8A%A4%ED%83%9D(stack)/main.swift)* |
+|**2022.01.28** | <center>백준 10828 스택 (stack) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/1874_%EC%8A%A4%ED%83%9D%20%EC%88%98%EC%97%B4/main.swift)* |
+|**2022.01.30** | <center>백준 1406 에디터 </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/1406_%EC%97%90%EB%94%94%ED%84%B0/main.swift)* |
+|**2022.02.04** | <center>백준 10845 큐</center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/10845_%ED%81%90/main.swift)* |
+|**2022.02.04** | <center>백준 1158 요세푸스 문제 </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/1158_%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4%20%EB%AC%B8%EC%A0%9C/main.swift)* |
+|**2022.02.05** | <center>백준 1158 요세푸스 문제 </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/1158_%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4%20%EB%AC%B8%EC%A0%9C/main.swift)* |
+|**2022.02.06** | <center>[백준 10866 덱](https://www.acmicpc.net/problem/10866) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/10866_%EB%8D%B1/main.swift)* |
 
 
 
