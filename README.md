@@ -8,11 +8,9 @@
 deslog's blog 👉🏻👩🏻‍💻 ( https://didu-story.tistory.com/category/Algorithm )
 
 ### < 문제 풀이 순서 >
-* 백준 알고리즘 기초 1/2 강의 <span style="color:red">(현재진행중)</span>
-  * https://code.plus/course/41
+* [백준 알고리즘 기초 1/2 강의](https://code.plus/course/41) <span style="color:red">(현재진행중)</span>
 
-
-|  <center>날짜</center> |  <center>문제</center> |  <center></center> |
+| <center>날짜</center> |  <center>문제</center> |  <center></center> |
 |:--------|:--------:|--------:|
 |**<center>2022.01.16</center>** | <center>[백준 1874 스택 수열](https://www.acmicpc.net/problem/1874) </center>|*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/10828_%EC%8A%A4%ED%83%9D(stack)/main.swift)* |
 |**<center>2022.02.04</center>** | <center>[백준 10845 큐](https://www.acmicpc.net/problem/10845)</center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/10845_%ED%81%90/main.swift)* |
@@ -35,18 +33,12 @@ deslog's blog 👉🏻👩🏻‍💻 ( https://didu-story.tistory.com/category/
 |**<center>2022.02.20</center>** | <center>[백준 1212 8진수 2진수](https://www.acmicpc.net/problem/1212) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/1212_8%EC%A7%84%EC%88%98%202%EC%A7%84%EC%88%98/main.swift)* |
 
 
-* 백준 알고리즘 기초 2/2 강의 
-  * https://code.plus/course/42
-* 알고리즘 중급 1/3
-  * https://code.plus/course/43
-* 알고리즘 중급 2/3
-  * https://code.plus/course/44
-* 알고리즘 중급 3/3
-  * https://code.plus/course/45
-* 코딩테스트 준비 - 연습
-  * https://code.plus/course/52
-* 코딩테스트 준비 - 문제
-  * https://code.plus/course/53
+👉🏻 다음은 아래 순서대로 문제를 풀 예정입니다. 코딩테스트 합격을 위하여!
+* [백준 알고리즘 기초 2/2 강의](https://code.plus/course/42)
+* [알고리즘 중급 1/3](https://code.plus/course/43)
+* [알고리즘 중급 2/3](https://code.plus/course/44)
+* [알고리즘 중급 3/3](https://code.plus/course/45)
+* [코딩테스트 준비 - 연습](https://code.plus/course/52)
+* [코딩테스트 준비 - 문제](https://code.plus/course/53)
 
 
-👉🏻 이 순서대로 문제를 풀 예정입니다. 코딩테스트 합격을 위하여!
