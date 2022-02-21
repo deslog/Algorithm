@@ -1,16 +1,17 @@
 # Algorithm
 ## Boj-Algorithm (Swift)
+스위프트(Swift)언어로 **1일 1백준** 을 목표로 삼고 공부중입니다.👩🏻‍💻
 
-## 코딩테스트 연습 로드맵 
-강의를 구매하지는 않았고, 문제를 순서대로 풀며 혼자 연습 중에 있습니다. :) 
+## deslog blog
 문제를 고민하고 풀었던 흔적을 남기고 있습니다 
+**deslog's blog 👉🏻👩🏻‍💻 ( https://didu-story.tistory.com/category/Algorithm )**
 
-deslog's blog 👉🏻👩🏻‍💻 ( https://didu-story.tistory.com/category/Algorithm )
+### < 코딩테스트 study 로드맵 ✍🏻 >
+백준 알고리즘 기초 강의, 알고리즘 중급 강의, 코딩테스트 문제 모음을 기준으로 혼자 공부하고 있습니다. (강의구매X, 문제 순서만 참고)
 
-### < 문제 풀이 순서 >
-* [백준 알고리즘 기초 1/2 강의](https://code.plus/course/41) <span style="color:red">(현재진행중)</span>
+*<span style="color:red">(현재진행중)</span> [백준 알고리즘 기초 1/2 강의](https://code.plus/course/41)
 
-| <center>날짜</center> |  <center>문제</center> |  <center></center> |
+| <center>날짜</center> |  <center>문제</center> |  <center>소스코드</center> |
 |:--------|:--------:|--------:|
 |**<center>2022.01.16</center>** | <center>[백준 1874 스택 수열](https://www.acmicpc.net/problem/1874) </center>|*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/10828_%EC%8A%A4%ED%83%9D(stack)/main.swift)* |
 |**<center>2022.02.04</center>** | <center>[백준 10845 큐](https://www.acmicpc.net/problem/10845)</center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/10845_%ED%81%90/main.swift)* |
@@ -33,7 +34,8 @@ deslog's blog 👉🏻👩🏻‍💻 ( https://didu-story.tistory.com/category/
 |**<center>2022.02.20</center>** | <center>[백준 1212 8진수 2진수](https://www.acmicpc.net/problem/1212) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/1212_8%EC%A7%84%EC%88%98%202%EC%A7%84%EC%88%98/main.swift)* |
 
 
-👉🏻 다음은 아래 순서대로 문제를 풀 예정입니다. 코딩테스트 합격을 위하여!
+
+### 👉🏻 다음은 아래 순서대로 문제를 풀 예정입니다. 코딩테스트 합격을 위하여!
 * [백준 알고리즘 기초 2/2 강의](https://code.plus/course/42)
 * [알고리즘 중급 1/3](https://code.plus/course/43)
 * [알고리즘 중급 2/3](https://code.plus/course/44)
