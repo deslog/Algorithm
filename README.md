@@ -6,7 +6,7 @@
 문제를 고민하고 풀었던 흔적을 남기고 있습니다 
 **deslog's blog 👉🏻👩🏻‍💻 ( https://didu-story.tistory.com/category/Algorithm )**
 
-### < 코딩테스트 study 로드맵 ✍🏻 >
+## < 코딩테스트 study 로드맵 ✍🏻 >
 백준 알고리즘 기초 강의, 알고리즘 중급 강의, 코딩테스트 문제 모음을 기준으로 혼자 공부하고 있습니다. (강의구매X, 문제 순서만 참고)
 
 *<span style="color:red">(현재진행중)</span> [백준 알고리즘 기초 1/2 강의](https://code.plus/course/41)
