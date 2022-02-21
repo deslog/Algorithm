@@ -12,7 +12,7 @@ deslog's blog 👉🏻👩🏻‍💻 ( https://didu-story.tistory.com/category/
   * https://code.plus/course/41
 
 
-|  <center>날짜</center> |  <center>문제</center> |  <center>내가 푼 풀이</center> |
+|  <center>날짜</center> |  <center>문제</center> |  <center></center> |
 |:--------|:--------:|--------:|
 |**<center>2022.01.16</center>** | <center>[백준 1874 스택 수열](https://www.acmicpc.net/problem/1874) </center>|*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/10828_%EC%8A%A4%ED%83%9D(stack)/main.swift)* |
 |**<center>2022.02.04</center>** | <center>[백준 10845 큐](https://www.acmicpc.net/problem/10845)</center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/10845_%ED%81%90/main.swift)* |
