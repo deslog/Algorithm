@@ -3,7 +3,8 @@
 스위프트(Swift)언어로 **1일 1백준** 을 목표로 삼고 공부중입니다.👩🏻‍💻
 
 ## deslog blog
-문제를 고민하고 풀었던 흔적을 남기고 있습니다 
+문제를 고민하고 풀었던 흔적을 남기고 있습니다.✏️
+
 **deslog's blog 👉🏻👩🏻‍💻 ( https://didu-story.tistory.com/category/Algorithm )**
 
 ## < 코딩테스트 study 로드맵 ✍🏻 >
