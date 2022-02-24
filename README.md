@@ -35,7 +35,7 @@
 |**<center>2022.02.20</center>** | <center>[백준 9613 GCD합](https://www.acmicpc.net/problem/9613) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/9613_GCD%ED%95%A9/main.swift)* |
 |**<center>2022.02.20</center>** | <center>[백준 1373 2진수 8진수](https://www.acmicpc.net/problem/1373) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/1373_2%EC%A7%84%EC%88%98%208%EC%A7%84%EC%88%98/main.swift)* |
 |**<center>2022.02.20</center>** | <center>[백준 1212 8진수 2진수](https://www.acmicpc.net/problem/1212) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/1212_8%EC%A7%84%EC%88%98%202%EC%A7%84%EC%88%98/main.swift)* |
-|**<center>2022.02.24</center>** | <center>[백준 2089 -2진수(https://www.acmicpc.net/problem/2089) </center> |*[link]()* |
+|**<center>2022.02.24</center>** | <center>[백준 2089 -2진수](https://www.acmicpc.net/problem/2089) </center> |*[link]()* |
 
 
 
