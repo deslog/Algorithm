@@ -39,6 +39,7 @@
 |**<center>2022.02.28</center>** | <center>[백준 11653 소인수분해](https://www.acmicpc.net/problem/11653) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/11653_%EC%86%8C%EC%9D%B8%EC%88%98%EB%B6%84%ED%95%B4/main.swift)* |
 |**<center>2022.03.01</center>** | <center>[백준 17103 골드바흐 파티션](https://www.acmicpc.net/problem/17103) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/17103_%EA%B3%A8%EB%93%9C%EB%B0%94%ED%9D%90%20%ED%8C%8C%ED%8B%B0%EC%85%98/main.swift)* |
 |**<center>2022.03.02</center>** | <center>[백준 1463 1로 만들기](https://www.acmicpc.net/problem/1463) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/1463_1%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0/main.swift)* |
+|**<center>2022.03.05</center>** | <center>[백준 11726 2xn 타일링](https://www.acmicpc.net/problem/11726) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/11726_2xn%ED%83%80%EC%9D%BC%EB%A7%81/main.swift)* |
 
 
 ### 👉🏻 다음은 아래 순서대로 문제를 풀 예정입니다. 코딩테스트 합격을 위하여!
