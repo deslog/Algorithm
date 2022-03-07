@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		A7E6F9C727D338D100731F6A /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7E6F9C627D338D100731F6A /* main.swift */; };
+		A78D69D227D64A8E00A47832 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A78D69D127D64A8E00A47832 /* main.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -45,6 +45,7 @@
 		A77C424727B79BDE0044AE94 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A788C93127CBC2C700C1EFB9 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A78A19AC27B6557F0007CDD8 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		A78D69D127D64A8E00A47832 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A79AC63B27CA02D900BF2932 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A7A3080B27AE47D5009EF1F2 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A7BBD80827B0D15D0050409D /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -173,6 +174,7 @@
 		A755BDAD27ACFFFA004CADD9 /* Boj */ = {
 			isa = PBXGroup;
 			children = (
+				A78D69D027D64A7000A47832 /* 9095_1,2,3 더하기 */,
 				A7E6F9C527D338BE00731F6A /* 11727_2xn타일링2 */,
 				A7E6F9C227D313B500731F6A /* 11726_2xn타일링 */,
 				A760155627D0F45C00B4F74A /* 1463_1로 만들기 */,
@@ -314,6 +316,15 @@
 			path = "1935_후위표기식2";
 			sourceTree = "<group>";
 		};
+		A78D69D027D64A7000A47832 /* 9095_1,2,3 더하기 */ = {
+			isa = PBXGroup;
+			children = (
+				A78D69D127D64A8E00A47832 /* main.swift */,
+			);
+			name = "9095_1,2,3 더하기";
+			path = "9095_1,2,3 더하기";
+			sourceTree = "<group>";
+		};
 		A79AC63A27CA02C600BF2932 /* 2089_-2진수 */ = {
 			isa = PBXGroup;
 			children = (
@@ -445,7 +456,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A7E6F9C727D338D100731F6A /* main.swift in Sources */,
+				A78D69D227D64A8E00A47832 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
