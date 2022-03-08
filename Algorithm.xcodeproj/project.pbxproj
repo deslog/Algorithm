@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		A78D69D227D64A8E00A47832 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A78D69D127D64A8E00A47832 /* main.swift */; };
+		A78D69D527D73E6C00A47832 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A78D69D427D73E6C00A47832 /* main.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -46,6 +46,7 @@
 		A788C93127CBC2C700C1EFB9 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A78A19AC27B6557F0007CDD8 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A78D69D127D64A8E00A47832 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		A78D69D427D73E6C00A47832 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A79AC63B27CA02D900BF2932 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A7A3080B27AE47D5009EF1F2 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A7BBD80827B0D15D0050409D /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -174,6 +175,7 @@
 		A755BDAD27ACFFFA004CADD9 /* Boj */ = {
 			isa = PBXGroup;
 			children = (
+				A78D69D327D73E5B00A47832 /* 11052_카드 구매하기 */,
 				A78D69D027D64A7000A47832 /* 9095_1,2,3 더하기 */,
 				A7E6F9C527D338BE00731F6A /* 11727_2xn타일링2 */,
 				A7E6F9C227D313B500731F6A /* 11726_2xn타일링 */,
@@ -325,6 +327,15 @@
 			path = "9095_1,2,3 더하기";
 			sourceTree = "<group>";
 		};
+		A78D69D327D73E5B00A47832 /* 11052_카드 구매하기 */ = {
+			isa = PBXGroup;
+			children = (
+				A78D69D427D73E6C00A47832 /* main.swift */,
+			);
+			name = "11052_카드 구매하기";
+			path = "11052_카드 구매하기";
+			sourceTree = "<group>";
+		};
 		A79AC63A27CA02C600BF2932 /* 2089_-2진수 */ = {
 			isa = PBXGroup;
 			children = (
@@ -456,7 +467,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A78D69D227D64A8E00A47832 /* main.swift in Sources */,
+				A78D69D527D73E6C00A47832 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
