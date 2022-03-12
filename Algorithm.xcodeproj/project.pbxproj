@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		A701CFF127D9CB7A00DBABAA /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A701CFF027D9CB7A00DBABAA /* main.swift */; };
+		A7DABE4E27DC5B6B00EC711F /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7DABE4D27DC5B6B00EC711F /* main.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -54,6 +54,7 @@
 		A7BBD80827B0D15D0050409D /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A7CF795F27B8EC59003C391E /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A7D6ADC127CDB6270001A368 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		A7DABE4D27DC5B6B00EC711F /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A7E6F9C327D313E000731F6A /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A7E6F9C627D338D100731F6A /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A7F3729227B4054800E56D8E /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -186,6 +187,7 @@
 		A755BDAD27ACFFFA004CADD9 /* Boj */ = {
 			isa = PBXGroup;
 			children = (
+				A7DABE4C27DC5B5400EC711F /* 10844_쉬운 계단 수 */,
 				A701CFEF27D9CB6100DBABAA /* 15990_1,2,3 더하기 5 */,
 				A75664E527D904FC009E5F51 /* 16194_카드 구매하기2 */,
 				A78D69D327D73E5B00A47832 /* 11052_카드 구매하기 */,
@@ -403,6 +405,15 @@
 			path = "17103_골드바흐 파티션";
 			sourceTree = "<group>";
 		};
+		A7DABE4C27DC5B5400EC711F /* 10844_쉬운 계단 수 */ = {
+			isa = PBXGroup;
+			children = (
+				A7DABE4D27DC5B6B00EC711F /* main.swift */,
+			);
+			name = "10844_쉬운 계단 수";
+			path = "10844_쉬운 계단 수";
+			sourceTree = "<group>";
+		};
 		A7E6F9C227D313B500731F6A /* 11726_2xn타일링 */ = {
 			isa = PBXGroup;
 			children = (
@@ -489,7 +500,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A701CFF127D9CB7A00DBABAA /* main.swift in Sources */,
+				A7DABE4E27DC5B6B00EC711F /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
