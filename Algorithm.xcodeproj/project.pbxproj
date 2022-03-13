@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		A7DABE5227DC71EA00EC711F /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7DABE5127DC71EA00EC711F /* main.swift */; };
+		A789EDB227DD9241005F272A /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A789EDB127DD9241005F272A /* main.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -46,6 +46,7 @@
 		A774DE9127C0A57900A2807C /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A77C424727B79BDE0044AE94 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A788C93127CBC2C700C1EFB9 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		A789EDB127DD9241005F272A /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A78A19AC27B6557F0007CDD8 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A78D69D127D64A8E00A47832 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A78D69D427D73E6C00A47832 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -188,6 +189,7 @@
 		A755BDAD27ACFFFA004CADD9 /* Boj */ = {
 			isa = PBXGroup;
 			children = (
+				A789EDB027DD9224005F272A /* 11053_가장 긴 증가하는 부분 수열 */,
 				A7DABE4F27DC71DB00EC711F /* 2193_이친수 */,
 				A7DABE4C27DC5B5400EC711F /* 10844_쉬운 계단 수 */,
 				A701CFEF27D9CB6100DBABAA /* 15990_1,2,3 더하기 5 */,
@@ -333,6 +335,15 @@
 			);
 			name = "11653_소인수분해";
 			path = "11653_소인수분해";
+			sourceTree = "<group>";
+		};
+		A789EDB027DD9224005F272A /* 11053_가장 긴 증가하는 부분 수열 */ = {
+			isa = PBXGroup;
+			children = (
+				A789EDB127DD9241005F272A /* main.swift */,
+			);
+			name = "11053_가장 긴 증가하는 부분 수열";
+			path = "11053_가장 긴 증가하는 부분 수열 ";
 			sourceTree = "<group>";
 		};
 		A78A19AB27B6556B0007CDD8 /* 1935_후위표기식2 */ = {
@@ -511,7 +522,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A7DABE5227DC71EA00EC711F /* main.swift in Sources */,
+				A789EDB227DD9241005F272A /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
