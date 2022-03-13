@@ -47,6 +47,8 @@
 |**<center>2022.03.10</center>** | <center>[백준 15990 (DP) 1,2,3 더하기 5](https://www.acmicpc.net/problem/15990) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/15990_1%2C2%2C3%20%EB%8D%94%ED%95%98%EA%B8%B0%205/main.swift)* |
 |**<center>2022.03.12</center>** | <center>[백준 10844 (DP) 쉬운 계단 수](https://www.acmicpc.net/problem/10844) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/10844_%EC%89%AC%EC%9A%B4%20%EA%B3%84%EB%8B%A8%20%EC%88%98/main.swift)* |
 |**<center>2022.03.12</center>** | <center>[백준 2193 (DP) 이친수](https://www.acmicpc.net/problem/2193) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/2193_%EC%9D%B4%EC%B9%9C%EC%88%98/main.swift)* |
+|**<center>2022.03.13</center>** | <center>[백준 11053 (DP) 가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/11053_%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4%20/main.swift)* |
+|**<center>2022.03.13</center>** | <center>[백준 14002 (DP) 가장 긴 증가하는 부분 수열4](https://www.acmicpc.net/problem/14002) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/14002_%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4%204/main.swift)* |
 
 
 
