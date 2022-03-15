@@ -5,16 +5,13 @@
 //  Created by 이지수 on 2022/03/13.
 //
 
-let n = Int(readLine()!)!
-let inputArray = readLine()!.split(separator: " ").map { Int(String($0))}
-var dp: [Int] = []
+let n = Int(String(readLine()!))!
+let arr = readLine()!.split(separator: " ").map{Int(String($0))!}
+var dp = Array(repeating: -1001, count: 100001)
 
-dp.append(inputArray[0]!)
+dp[0] = arr[0]
 
-for i in 1..<n {
-    for j in 1..<i+1 {
-        dp[i] = max(dp[i], dp[i-1]+inputArray[j]!)
-    }
+for i in 1..<n{
+    dp[i] = max(arr[i],dp[i - 1] + arr[i])
 }
-
-print(dp)
+print(dp.max()!)
