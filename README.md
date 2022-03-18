@@ -52,11 +52,11 @@
 |34|**<center>2022.03.15</center>** | DP | <center>[백준 1699 제곱수의 합](https://www.acmicpc.net/problem/1699) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/1699_%EC%A0%9C%EA%B3%B1%EC%88%98%EC%9D%98%20%ED%95%A9/main.swift)* |
 |35|**<center>2022.03.17</center>** | DP | <center>[백준 2225 합분해](https://www.acmicpc.net/problem/2225) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/2225_%ED%95%A9%EB%B6%84%ED%95%B4/main.swift)* |
 |36|**<center>2022.03.18</center>** | DP | <center>[백준 15988 1,2,3 더하기 3](https://www.acmicpc.net/problem/15988) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/15988_1%2C2%2C3%EB%8D%94%ED%95%98%EA%B8%B0%203/main.swift)* |
-|37|**<center>2022.03.19</center>** | DP | <center>[백준 1149 RGB거리](https://www.acmicpc.net/problem/1149) </center> |*[link]()* |
+|37|**<center>2022.03.19</center>** | DP | <center>[백준 1149 RGB거리](https://www.acmicpc.net/problem/1149) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/1149_RGB%EA%B1%B0%EB%A6%AC/main.swift)* |
 
 
 
-### 👉🏻 다음은 아래 순서대로 문제를 풀 예정입니다. 코딩테스트 합격을 위하여!
+### 👉🏻 아래 강의에 나온 문제를 순서대로 풀 예정입니다. 코딩테스트 합격을 위하여!
 * [백준 알고리즘 기초 2/2 강의](https://code.plus/course/42)
 * [알고리즘 중급 1/3](https://code.plus/course/43)
 * [알고리즘 중급 2/3](https://code.plus/course/44)
