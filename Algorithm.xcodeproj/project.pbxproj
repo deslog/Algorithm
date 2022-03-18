@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		A74FDEF227E4A7AF00599092 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A74FDEF127E4A7AF00599092 /* main.swift */; };
+		A74FDEF527E4E3F600599092 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A74FDEF427E4E3F600599092 /* main.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -36,6 +36,7 @@
 		A748F1C427BFD3FC00EF3683 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A74FDEEE27E3627900599092 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A74FDEF127E4A7AF00599092 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		A74FDEF427E4E3F600599092 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A755BDA327ACFF93004CADD9 /* Algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm; sourceTree = BUILT_PRODUCTS_DIR; };
 		A755BDAF27AD003D004CADD9 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A755BDB227AD0597004CADD9 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -194,6 +195,15 @@
 			path = "15988_1,2,3더하기 3";
 			sourceTree = "<group>";
 		};
+		A74FDEF327E4E3E600599092 /* 1149_RGB거리 */ = {
+			isa = PBXGroup;
+			children = (
+				A74FDEF427E4E3F600599092 /* main.swift */,
+			);
+			name = "1149_RGB거리";
+			path = "1149_RGB거리";
+			sourceTree = "<group>";
+		};
 		A755BD9A27ACFF93004CADD9 = {
 			isa = PBXGroup;
 			children = (
@@ -221,6 +231,7 @@
 		A755BDAD27ACFFFA004CADD9 /* Boj */ = {
 			isa = PBXGroup;
 			children = (
+				A74FDEF327E4E3E600599092 /* 1149_RGB거리 */,
 				A74FDEF027E4A79B00599092 /* 15988_1,2,3더하기 3 */,
 				A74FDEED27E3626800599092 /* 2225_합분해 */,
 				A770196F27E1C3B60034CE56 /* 1699_제곱수의 합 */,
@@ -577,7 +588,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A74FDEF227E4A7AF00599092 /* main.swift in Sources */,
+				A74FDEF527E4E3F600599092 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
