@@ -1,19 +1,23 @@
 # Algorithm
 ## Boj-Algorithm (Swift)
-스위프트(Swift)언어로 **1일 1백준** 을 목표로 삼고 공부중입니다.👩🏻‍💻
+👩🏻‍💻 스위프트(Swift)언어로 🍃**1일 1백준**🍃 을 목표로 삼고 공부중입니다.<br>
+🔎 보고싶은 문제의 번호를 command+F 로 검색해서 찾아보세요!<br>
+🥅 2022년의 목표는 250문제 이상 solve 하는 것 입니다. 
 
+<br>
 
 ## deslog blog
 문제를 고민하고 풀었던 흔적을 남기고 있습니다.✏️
 
 **deslog's blog 👉🏻👩🏻‍💻 ( https://didu-story.tistory.com/category/Algorithm )**
 
+<br>
 
 ## Study 로드맵
 백준 알고리즘 기초 강의, 알고리즘 중급 강의, 코딩테스트 문제 모음을 기준으로 혼자 공부하고 있습니다. (강의구매X, 문제 순서만 참고)
 
 *<span style="color:red">(현재진행중)</span> [백준 알고리즘 기초 1/2 강의](https://code.plus/course/41)
-
+<br>
 | <center>순번</center> | <center>날짜</center> |<center>분류</center>|  <center>문제</center> |  <center>소스코드</center> |
 |:--------:|:--------:|:--------:|:--------:|:--------:|
 |1|**<center>2022.01.16</center>** | 자료구조 | <center>[백준 1874 스택 수열](https://www.acmicpc.net/problem/1874) </center>|*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/10828_%EC%8A%A4%ED%83%9D(stack)/main.swift)* |
@@ -55,6 +59,7 @@
 |37|**<center>2022.03.19</center>** | DP | <center>[백준 1149 RGB거리](https://www.acmicpc.net/problem/1149) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/1149_RGB%EA%B1%B0%EB%A6%AC/main.swift)* |
 
 
+<br>
 
 ### 👉🏻 아래 강의에 나온 문제를 순서대로 풀 예정입니다. 코딩테스트 합격을 위하여!
 * [백준 알고리즘 기초 2/2 강의](https://code.plus/course/42)
