@@ -6,7 +6,7 @@
 
 <br>
 
-## deslog blog
+## deslog TECH blog
 문제를 고민하고 풀었던 흔적을 남기고 있습니다.✏️
 
 **deslog's blog 👉🏻👩🏻‍💻 ( https://didu-story.tistory.com/category/Algorithm )**
