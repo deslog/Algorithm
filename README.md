@@ -57,6 +57,8 @@
 |35|**<center>2022.03.17</center>** | DP | <center>[백준 2225 합분해](https://www.acmicpc.net/problem/2225) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/2225_%ED%95%A9%EB%B6%84%ED%95%B4/main.swift)* |
 |36|**<center>2022.03.18</center>** | DP | <center>[백준 15988 1,2,3 더하기 3](https://www.acmicpc.net/problem/15988) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/15988_1%2C2%2C3%EB%8D%94%ED%95%98%EA%B8%B0%203/main.swift)* |
 |37|**<center>2022.03.19</center>** | DP | <center>[백준 1149 RGB거리](https://www.acmicpc.net/problem/1149) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/1149_RGB%EA%B1%B0%EB%A6%AC/main.swift)* |
+|38|**<center>2022.03.20</center>** | DP | <center>[백준 1309 동물원](https://www.acmicpc.net/problem/1309) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/1309_%EB%8F%99%EB%AC%BC%EC%9B%90/main.swift)* |
+
 
 
 <br>
