@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		A7E7F51D27ECB1D2003DFB63 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7E7F51C27ECB1D2003DFB63 /* main.swift */; };
+		A793034D27EDEC9100D5E414 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A793034C27EDEC9100D5E414 /* main.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -56,6 +56,7 @@
 		A78A19AC27B6557F0007CDD8 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A78D69D127D64A8E00A47832 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A78D69D427D73E6C00A47832 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		A793034C27EDEC9100D5E414 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A79AC63B27CA02D900BF2932 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A7A3080B27AE47D5009EF1F2 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A7BBD80827B0D15D0050409D /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -234,6 +235,7 @@
 		A755BDAD27ACFFFA004CADD9 /* Boj */ = {
 			isa = PBXGroup;
 			children = (
+				A793034B27EDEC8200D5E414 /* 2156_포도주시식 */,
 				A7E7F51B27ECB1C1003DFB63 /* 9465_스티커 */,
 				A7DBEBA527E8BB140023B682 /* 11057_오르막 수 */,
 				A7D5E62A27E6F1440008D04D /* 1309_동물원 */,
@@ -445,6 +447,15 @@
 			path = "11052_카드 구매하기";
 			sourceTree = "<group>";
 		};
+		A793034B27EDEC8200D5E414 /* 2156_포도주시식 */ = {
+			isa = PBXGroup;
+			children = (
+				A793034C27EDEC9100D5E414 /* main.swift */,
+			);
+			name = "2156_포도주시식";
+			path = "2156_포도주시식";
+			sourceTree = "<group>";
+		};
 		A79AC63A27CA02C600BF2932 /* 2089_-2진수 */ = {
 			isa = PBXGroup;
 			children = (
@@ -621,7 +632,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A7E7F51D27ECB1D2003DFB63 /* main.swift in Sources */,
+				A793034D27EDEC9100D5E414 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
