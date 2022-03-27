@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		A793034D27EDEC9100D5E414 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A793034C27EDEC9100D5E414 /* main.swift */; };
+		A73CEF2E27F015BA009673D9 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A73CEF2B27F0144D009673D9 /* main.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -30,6 +30,7 @@
 		A73A874F27C1E2DD00DE34EC /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A73A875227C1F35600DE34EC /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A73A875527C21D6A00DE34EC /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		A73CEF2B27F0144D009673D9 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A73D81E127DDDA170016544C /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A748F1BE27BE498700EF3683 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A748F1C127BFC09600EF3683 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -146,6 +147,15 @@
 			path = "1212_8진수 2진수";
 			sourceTree = "<group>";
 		};
+		A73CEF2A27F0143B009673D9 /* 1932_정수 삼각형 */ = {
+			isa = PBXGroup;
+			children = (
+				A73CEF2B27F0144D009673D9 /* main.swift */,
+			);
+			name = "1932_정수 삼각형";
+			path = "1932_정수 삼각형";
+			sourceTree = "<group>";
+		};
 		A73D81E027DDDA030016544C /* 1912_연속합 */ = {
 			isa = PBXGroup;
 			children = (
@@ -235,6 +245,7 @@
 		A755BDAD27ACFFFA004CADD9 /* Boj */ = {
 			isa = PBXGroup;
 			children = (
+				A73CEF2A27F0143B009673D9 /* 1932_정수 삼각형 */,
 				A793034B27EDEC8200D5E414 /* 2156_포도주시식 */,
 				A7E7F51B27ECB1C1003DFB63 /* 9465_스티커 */,
 				A7DBEBA527E8BB140023B682 /* 11057_오르막 수 */,
@@ -601,7 +612,7 @@
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1320;
-				LastUpgradeCheck = 1320;
+				LastUpgradeCheck = 1330;
 				TargetAttributes = {
 					A755BDA227ACFF93004CADD9 = {
 						CreatedOnToolsVersion = 13.2.1;
@@ -632,7 +643,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A793034D27EDEC9100D5E414 /* main.swift in Sources */,
+				A73CEF2E27F015BA009673D9 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -758,6 +769,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_IDENTITY = "-";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 82DRSFKFS9;
 				ENABLE_HARDENED_RUNTIME = YES;
@@ -776,6 +788,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_IDENTITY = "-";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 82DRSFKFS9;
 				ENABLE_HARDENED_RUNTIME = YES;
