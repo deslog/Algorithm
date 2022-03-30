@@ -3,7 +3,7 @@
 //  Algorithm
 //
 //  Created by 이지수 on 2022/03/27.
-//
+//  틀렸습니다
 
 let n = Int(readLine()!)!
 var dp = Array(repeating: Array(repeating: 0, count: n), count: 2)
