@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		A739F97227F352F50037F3BE /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A739F97127F352F50037F3BE /* main.swift */; };
+		38E650B028043E1C00A2FDCB /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38E650AF28043E1C00A2FDCB /* main.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -23,6 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		38E650AF28043E1C00A2FDCB /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A701CFF027D9CB7A00DBABAA /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A7233E6C27BA1E7C009993B0 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A7348CB827BCD37200AD387D /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -85,6 +86,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		38E650AE28043E0900A2FDCB /* 2309_일곱난쟁이 */ = {
+			isa = PBXGroup;
+			children = (
+				38E650AF28043E1C00A2FDCB /* main.swift */,
+			);
+			name = "2309_일곱난쟁이";
+			path = "2309_일곱난쟁이";
+			sourceTree = "<group>";
+		};
 		A701CFEF27D9CB6100DBABAA /* 15990_1,2,3 더하기 5 */ = {
 			isa = PBXGroup;
 			children = (
@@ -256,6 +266,7 @@
 		A755BDAD27ACFFFA004CADD9 /* Boj */ = {
 			isa = PBXGroup;
 			children = (
+				38E650AE28043E0900A2FDCB /* 2309_일곱난쟁이 */,
 				A739F97027F352D90037F3BE /* 11055_가장 큰 증가 부분 수열 */,
 				A73CEF2A27F0143B009673D9 /* 1932_정수 삼각형 */,
 				A793034B27EDEC8200D5E414 /* 2156_포도주시식 */,
@@ -655,7 +666,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A739F97227F352F50037F3BE /* main.swift in Sources */,
+				38E650B028043E1C00A2FDCB /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
