@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		38E650B028043E1C00A2FDCB /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38E650AF28043E1C00A2FDCB /* main.swift */; };
+		A721D54A28058293000DABD5 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A721D54928058293000DABD5 /* main.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		38E650AF28043E1C00A2FDCB /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A701CFF027D9CB7A00DBABAA /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		A721D54928058293000DABD5 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A7233E6C27BA1E7C009993B0 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A7348CB827BCD37200AD387D /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A7348CBC27BCD6D100AD387D /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -102,6 +103,15 @@
 			);
 			name = "15990_1,2,3 더하기 5";
 			path = "15990_1,2,3 더하기 5";
+			sourceTree = "<group>";
+		};
+		A721D54828058277000DABD5 /* 3085_사탕게임 */ = {
+			isa = PBXGroup;
+			children = (
+				A721D54928058293000DABD5 /* main.swift */,
+			);
+			name = "3085_사탕게임";
+			path = "3085_사탕게임";
 			sourceTree = "<group>";
 		};
 		A7233E6B27BA1E36009993B0 /* 10809_알파벳 찾기 */ = {
@@ -266,6 +276,7 @@
 		A755BDAD27ACFFFA004CADD9 /* Boj */ = {
 			isa = PBXGroup;
 			children = (
+				A721D54828058277000DABD5 /* 3085_사탕게임 */,
 				38E650AE28043E0900A2FDCB /* 2309_일곱난쟁이 */,
 				A739F97027F352D90037F3BE /* 11055_가장 큰 증가 부분 수열 */,
 				A73CEF2A27F0143B009673D9 /* 1932_정수 삼각형 */,
@@ -666,7 +677,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				38E650B028043E1C00A2FDCB /* main.swift in Sources */,
+				A721D54A28058293000DABD5 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
