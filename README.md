@@ -64,6 +64,7 @@
 |42|**<center>2022.04.11</center>** | 완전탐색(BF) | <center>[백준 2309 일곱난쟁이](https://www.acmicpc.net/problem/2309) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/2309_%EC%9D%BC%EA%B3%B1%EB%82%9C%EC%9F%81%EC%9D%B4/main.swift)* |
 |43|**<center>2022.04.12</center>** | 완전탐색(BF) | <center>[백준 3085 사탕게임](https://www.acmicpc.net/problem/3085) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/3085_%EC%82%AC%ED%83%95%EA%B2%8C%EC%9E%84/main.swift)* |
 |44|**<center>2022.04.17</center>** | 완전탐색(BF) | <center>[백준 1107 리모컨](https://www.acmicpc.net/problem/1107) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/1107_%EB%A6%AC%EB%AA%A8%EC%BB%A8/main.swift)* |
+|45|**<center>2022.04.20</center>** | 완전탐색(BF) | <center>[백준 1748 수 이어쓰기 1](https://www.acmicpc.net/problem/1748) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/1748_%EC%88%98%EC%9D%B4%EC%96%B4%EC%93%B0%EA%B8%B01/main.swift)* |
 
 
 
