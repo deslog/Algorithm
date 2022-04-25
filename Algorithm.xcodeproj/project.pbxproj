@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		A7D39862280FD4EA00D44CC8 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7D39861280FD4EA00D44CC8 /* main.swift */; };
+		38D0F1862816C8C90074A57B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38D0F1852816C8C90074A57B /* main.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -23,6 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		38D0F1852816C8C90074A57B /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		38E650AF28043E1C00A2FDCB /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A701CFF027D9CB7A00DBABAA /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A721D54928058293000DABD5 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -89,6 +90,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		38D0F1842816C8AF0074A57B /* 15651_N과M(3) */ = {
+			isa = PBXGroup;
+			children = (
+				38D0F1852816C8C90074A57B /* main.swift */,
+			);
+			name = "15651_N과M(3)";
+			path = "15651_N과M(3)";
+			sourceTree = "<group>";
+		};
 		38E650AE28043E0900A2FDCB /* 2309_일곱난쟁이 */ = {
 			isa = PBXGroup;
 			children = (
@@ -287,6 +297,7 @@
 		A755BDAD27ACFFFA004CADD9 /* Boj */ = {
 			isa = PBXGroup;
 			children = (
+				38D0F1842816C8AF0074A57B /* 15651_N과M(3) */,
 				A7D39860280FD4D600D44CC8 /* 1748_수이어쓰기1 */,
 				A72551F5280BE063005DE62E /* 1107_리모컨 */,
 				A721D54828058277000DABD5 /* 3085_사탕게임 */,
@@ -699,7 +710,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A7D39862280FD4EA00D44CC8 /* main.swift in Sources */,
+				38D0F1862816C8C90074A57B /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
