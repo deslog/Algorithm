@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		38AE08BE281C0DD00035EB0C /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38AE08BD281C0DD00035EB0C /* main.swift */; };
+		38AE08C2281C19050035EB0C /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38AE08C0281C10580035EB0C /* main.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,6 +24,7 @@
 
 /* Begin PBXFileReference section */
 		38AE08BD281C0DD00035EB0C /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		38AE08C0281C10580035EB0C /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		38D0F1852816C8C90074A57B /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		38E650AF28043E1C00A2FDCB /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A701CFF027D9CB7A00DBABAA /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -94,6 +95,7 @@
 		38AE08B8281C0D5E0035EB0C /* Programmers */ = {
 			isa = PBXGroup;
 			children = (
+				38AE08BF281C10450035EB0C /* kakao_신고 결과 받기 */,
 				38AE08B9281C0D720035EB0C /* kakao_크레인 인형뽑기 */,
 			);
 			path = Programmers;
@@ -106,6 +108,15 @@
 			);
 			name = "kakao_크레인 인형뽑기";
 			path = "kakao_크레인 인형뽑기";
+			sourceTree = "<group>";
+		};
+		38AE08BF281C10450035EB0C /* kakao_신고 결과 받기 */ = {
+			isa = PBXGroup;
+			children = (
+				38AE08C0281C10580035EB0C /* main.swift */,
+			);
+			name = "kakao_신고 결과 받기";
+			path = "kakao_신고 결과 받기";
 			sourceTree = "<group>";
 		};
 		38D0F1842816C8AF0074A57B /* 15651_N과M(3) */ = {
@@ -729,7 +740,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				38AE08BE281C0DD00035EB0C /* main.swift in Sources */,
+				38AE08C2281C19050035EB0C /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
