@@ -1,6 +1,6 @@
 # Algorithm
-## Boj-Algorithm (Swift)
-👩🏻‍💻 스위프트(Swift)언어로 🍃**1일 1백준**🍃 을 목표로 삼고 공부중입니다.<br>
+## Algorithm (Swift)
+👩🏻‍💻 스위프트(Swift)언어로 🍃**1일 1solve**🍃 을 목표로 삼고 공부중입니다.<br>
 🔎 보고싶은 문제의 번호를 command+F 로 검색해서 찾아보세요!<br>
 🥅 2022년의 목표는 250문제 이상 solve 하는 것 입니다. 
 
@@ -15,6 +15,7 @@
 
 ## Study 로드맵
 백준 알고리즘 기초 강의, 알고리즘 중급 강의, 코딩테스트 문제 모음을 기준으로 혼자 공부하고 있습니다. (강의구매X, 문제 순서만 참고)
+가끔 가다가 프로그래머스 문제도 풉니다. :) 
 
 *<span style="color:red">(현재진행중)</span> [백준 알고리즘 기초 1/2 강의](https://code.plus/course/41)
 <br>
@@ -66,6 +67,7 @@
 |44|**<center>2022.04.17</center>** | 완전탐색(BF) | <center>[백준 1107 리모컨](https://www.acmicpc.net/problem/1107) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/1107_%EB%A6%AC%EB%AA%A8%EC%BB%A8/main.swift)* |
 |45|**<center>2022.04.20</center>** | 완전탐색(BF) | <center>[백준 1748 수 이어쓰기 1](https://www.acmicpc.net/problem/1748) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/1748_%EC%88%98%EC%9D%B4%EC%96%B4%EC%93%B0%EA%B8%B01/main.swift)* |
 |46|**<center>2022.04.25</center>** | 완전탐색(BF) | <center>[백준 15651 N과 M (3)](https://www.acmicpc.net/problem/15651) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/15651_N%EA%B3%BCM(3)/main.swift)* |
+|47|**<center>2022.04.30</center>** | 카카오 | <center>[Kakao - 신고결과받기](https://programmers.co.kr/learn/courses/30/lessons/92334) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Programmers/kakao_%EC%8B%A0%EA%B3%A0%20%EA%B2%B0%EA%B3%BC%20%EB%B0%9B%EA%B8%B0/main.swift)* |
 
 
 
