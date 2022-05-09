@@ -67,6 +67,8 @@
 |44|**<center>2022.04.17</center>** | 완전탐색(BF) | <center>[백준 1107 리모컨](https://www.acmicpc.net/problem/1107) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/1107_%EB%A6%AC%EB%AA%A8%EC%BB%A8/main.swift)* |
 |45|**<center>2022.04.20</center>** | 완전탐색(BF) | <center>[백준 1748 수 이어쓰기 1](https://www.acmicpc.net/problem/1748) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/1748_%EC%88%98%EC%9D%B4%EC%96%B4%EC%93%B0%EA%B8%B01/main.swift)* |
 |46|**<center>2022.04.25</center>** | 완전탐색(BF) | <center>[백준 15651 N과 M (3)](https://www.acmicpc.net/problem/15651) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/15651_N%EA%B3%BCM(3)/main.swift)* |
+|47|**<center>2022.05.09</center>** | 완전탐색(BF)-재귀 | <center>[백준 1759 암호 만들기](https://www.acmicpc.net/problem/1759) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/1759_%EC%95%94%ED%98%B8%20%EB%A7%8C%EB%93%A4%EA%B8%B0/main.swift)* |
+
 
 
 ### 🧑🏻‍💻 프로그래머스
