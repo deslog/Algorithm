@@ -13,10 +13,10 @@
 
 <br>
 
-## Study 로드맵
 백준 알고리즘 기초 강의, 알고리즘 중급 강의, 코딩테스트 문제 모음을 기준으로 혼자 공부하고 있습니다. (강의구매X, 문제 순서만 참고)
 가끔 가다가 프로그래머스 문제도 풉니다. :) 
 
+### 🧑🏻‍💻 백준
 *<span style="color:red">(현재진행중)</span> [백준 알고리즘 기초 1/2 강의](https://code.plus/course/41)
 <br>
 | <center>순번</center> | <center>날짜</center> |<center>분류</center>|  <center>문제</center> |  <center>소스코드</center> |
@@ -67,7 +67,14 @@
 |44|**<center>2022.04.17</center>** | 완전탐색(BF) | <center>[백준 1107 리모컨](https://www.acmicpc.net/problem/1107) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/1107_%EB%A6%AC%EB%AA%A8%EC%BB%A8/main.swift)* |
 |45|**<center>2022.04.20</center>** | 완전탐색(BF) | <center>[백준 1748 수 이어쓰기 1](https://www.acmicpc.net/problem/1748) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/1748_%EC%88%98%EC%9D%B4%EC%96%B4%EC%93%B0%EA%B8%B01/main.swift)* |
 |46|**<center>2022.04.25</center>** | 완전탐색(BF) | <center>[백준 15651 N과 M (3)](https://www.acmicpc.net/problem/15651) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/15651_N%EA%B3%BCM(3)/main.swift)* |
-|47|**<center>2022.04.30</center>** | 카카오 | <center>[Kakao - 신고결과받기](https://programmers.co.kr/learn/courses/30/lessons/92334) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Programmers/kakao_%EC%8B%A0%EA%B3%A0%20%EA%B2%B0%EA%B3%BC%20%EB%B0%9B%EA%B8%B0/main.swift)* |
+
+
+### 🧑🏻‍💻 프로그래머스
+프로그래머스는 끌리는 문제, 그리고 재밌는 문제를 스터디원들과 함께 골라서 풉니다!
+| <center>순번</center> | <center>날짜</center> |<center>분류</center>|  <center>문제</center> |  <center>소스코드</center> |
+|:--------:|:--------:|:--------:|:--------:|:--------:|
+|1|**<center>2022.04.30</center>** | 카카오 | <center>[Kakao - 신고결과받기](https://programmers.co.kr/learn/courses/30/lessons/92334) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Programmers/kakao_%EC%8B%A0%EA%B3%A0%20%EA%B2%B0%EA%B3%BC%20%EB%B0%9B%EA%B8%B0/main.swift)* |
+|2|**<center>2022.05.09</center>** | 카카오 | <center>[Kakao - 주차요금계산](https://programmers.co.kr/learn/courses/30/lessons/92341) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Programmers/kakao_%EC%A3%BC%EC%B0%A8%20%EC%9A%94%EA%B8%88%20%EA%B3%84%EC%82%B0/main.swift)* |
 
 
 
