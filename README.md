@@ -19,9 +19,9 @@
 ### 🧑🏻‍💻 백준
 *<span style="color:red">(현재진행중)</span> [백준 알고리즘 기초 1/2 강의](https://code.plus/course/41)
 <br>
-| <center>순번</center> | <center>날짜</center> |<center>분류</center>|  <center>문제</center> |  <center>소스코드</center> |
-|:--------:|:--------:|:--------:|:--------:|:--------:|
-|1|**<center>2022.01.16</center>** | 자료구조 | <center>[백준 1874 스택 수열](https://www.acmicpc.net/problem/1874) </center>|*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/10828_%EC%8A%A4%ED%83%9D(stack)/main.swift)* |
+| <center>순번</center> | <center>날짜</center> |<center>분류</center>|  <center>문제</center> |  <center>소스코드</center> | <center>오답노트</center>|
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|1|**<center>2022.01.16</center>** | 자료구조 | <center>[백준 1874 스택 수열](https://www.acmicpc.net/problem/1874) </center>|*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/10828_%EC%8A%A4%ED%83%9D(stack)/main.swift)* ||
 |2|**<center>2022.02.04</center>** | 자료구조 | <center>[백준 10845 큐](https://www.acmicpc.net/problem/10845)</center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/10845_%ED%81%90/main.swift)* |
 |3|**<center>2022.02.05</center>** | 자료구조 | <center>[백준 1158 요세푸스 문제](https://www.acmicpc.net/problem/1158) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/1158_%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4%20%EB%AC%B8%EC%A0%9C/main.swift)* |
 |4|**<center>2022.02.06</center>** | 자료구조 | <center>[백준 10866 덱](https://www.acmicpc.net/problem/10866) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/10866_%EB%8D%B1/main.swift)* |
@@ -68,6 +68,11 @@
 |45|**<center>2022.04.20</center>** | 완전탐색(BF) | <center>[백준 1748 수 이어쓰기 1](https://www.acmicpc.net/problem/1748) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/1748_%EC%88%98%EC%9D%B4%EC%96%B4%EC%93%B0%EA%B8%B01/main.swift)* |
 |46|**<center>2022.04.25</center>** | 완전탐색(BF) | <center>[백준 15651 N과 M (3)](https://www.acmicpc.net/problem/15651) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/15651_N%EA%B3%BCM(3)/main.swift)* |
 |47|**<center>2022.05.09</center>** | 완전탐색(BF)-재귀 | <center>[백준 1759 암호 만들기](https://www.acmicpc.net/problem/1759) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/1759_%EC%95%94%ED%98%B8%20%EB%A7%8C%EB%93%A4%EA%B8%B0/main.swift)* |
+|48|**<center>2022.05.10</center>** | BFS | <center>[백준 1697 숨바꼭질](https://www.acmicpc.net/problem/1697) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/1697_%EC%88%A8%EB%B0%95%EA%BC%AD%EC%A7%88/main.swift)* | 🙋🏻‍♀️ |
+|49|**<center>2022.05.12</center>** | BFS,DFS | <center>[백준 1260 DFS와 BFS](https://www.acmicpc.net/problem/1260) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/1260_DFS%EC%99%80%20BFS/main.swift)* |
+
+
+https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/1260_DFS%EC%99%80%20BFS/main.swift
 
 
 
@@ -77,6 +82,7 @@
 |:--------:|:--------:|:--------:|:--------:|:--------:|
 |1|**<center>2022.04.30</center>** | 카카오 | <center>[Kakao - 신고결과받기](https://programmers.co.kr/learn/courses/30/lessons/92334) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Programmers/kakao_%EC%8B%A0%EA%B3%A0%20%EA%B2%B0%EA%B3%BC%20%EB%B0%9B%EA%B8%B0/main.swift)* |
 |2|**<center>2022.05.09</center>** | 카카오 | <center>[Kakao - 주차요금계산](https://programmers.co.kr/learn/courses/30/lessons/92341) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Programmers/kakao_%EC%A3%BC%EC%B0%A8%20%EC%9A%94%EA%B8%88%20%EA%B3%84%EC%82%B0/main.swift)* |
+|3|**<center>2022.05.06</center>** | 카카오 | <center>[Kakao - 메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Programmers/kakao_%EB%A9%94%EB%89%B4%20%EB%A6%AC%EB%89%B4%EC%96%BC/main.swift)* |
 
 
 
