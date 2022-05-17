@@ -70,9 +70,10 @@
 |47|**<center>2022.05.09</center>** | 완전탐색(BF)-재귀 | <center>[백준 1759 암호 만들기](https://www.acmicpc.net/problem/1759) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/1759_%EC%95%94%ED%98%B8%20%EB%A7%8C%EB%93%A4%EA%B8%B0/main.swift)* |
 |48|**<center>2022.05.10</center>** | BFS | <center>[백준 1697 숨바꼭질](https://www.acmicpc.net/problem/1697) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/1697_%EC%88%A8%EB%B0%95%EA%BC%AD%EC%A7%88/main.swift)* | 🙋🏻‍♀️ |
 |49|**<center>2022.05.12</center>** | BFS,DFS | <center>[백준 1260 DFS와 BFS](https://www.acmicpc.net/problem/1260) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/1260_DFS%EC%99%80%20BFS/main.swift)* |
+|50|**<center>2022.05.17</center>** | DP | <center>[백준 14501 퇴사](https://www.acmicpc.net/problem/14501) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/14501_%ED%87%B4%EC%82%AC/main.swift)* |
 
 
-https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/1260_DFS%EC%99%80%20BFS/main.swift
+
 
 
 
