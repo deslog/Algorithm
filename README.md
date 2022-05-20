@@ -71,7 +71,8 @@
 |48|**<center>2022.05.10</center>** | BFS | <center>[백준 1697 숨바꼭질](https://www.acmicpc.net/problem/1697) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/1697_%EC%88%A8%EB%B0%95%EA%BC%AD%EC%A7%88/main.swift)* | 🙋🏻‍♀️ |
 |49|**<center>2022.05.12</center>** | BFS,DFS | <center>[백준 1260 DFS와 BFS](https://www.acmicpc.net/problem/1260) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/1260_DFS%EC%99%80%20BFS/main.swift)* |
 |50|**<center>2022.05.17</center>** | DP | <center>[백준 14501 퇴사](https://www.acmicpc.net/problem/14501) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/14501_%ED%87%B4%EC%82%AC/main.swift)* |
-
+|51|**<center>2022.05.18</center>** | DFS | <center>[백준 13023 ABCDE](https://www.acmicpc.net/problem/13023) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/13023_ABCDE/main.swift)* | 🙋🏻‍♀️ 시간초과 |
+|52|**<center>2022.05.20</center>** | DFS | <center>[백준 11724 연결 요소의 개수 ](https://www.acmicpc.net/problem/11724) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/11724_%EC%97%B0%EA%B2%B0%20%EC%9A%94%EC%86%8C%EC%9D%98%20%EA%B0%9C%EC%88%98/main.swift)* |
 
 
 
