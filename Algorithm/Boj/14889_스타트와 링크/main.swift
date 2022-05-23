@@ -1,7 +1,6 @@
 let n = Int(String(readLine()!))!
 var s = Array(repeating: Array(repeating: 0, count: n), count: n)
 var visited = Array(repeating: false, count: n)
-var result: [Int] = []
 var team1 = 0
 var team2 = 0
 var minResult = 99999
