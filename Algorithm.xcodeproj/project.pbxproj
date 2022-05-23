@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		384D0C84283792DC00F9D7F3 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 384D0C83283792DC00F9D7F3 /* main.swift */; };
+		384836AC283BAA550052F100 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 384836AB283BAA550052F100 /* main.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -23,6 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		384836AB283BAA550052F100 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		384D0C83283792DC00F9D7F3 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		388809B5282FC77D00891435 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		388809B82830D72000891435 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -102,6 +103,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		384836AA283BAA3F0052F100 /* 14889_스타트와 링크 */ = {
+			isa = PBXGroup;
+			children = (
+				384836AB283BAA550052F100 /* main.swift */,
+			);
+			name = "14889_스타트와 링크";
+			path = "14889_스타트와 링크";
+			sourceTree = "<group>";
+		};
 		384D0C82283792CE00F9D7F3 /* 11724_연결 요소의 개수 */ = {
 			isa = PBXGroup;
 			children = (
@@ -428,6 +438,7 @@
 		A755BDAD27ACFFFA004CADD9 /* Boj */ = {
 			isa = PBXGroup;
 			children = (
+				384836AA283BAA3F0052F100 /* 14889_스타트와 링크 */,
 				384D0C82283792CE00F9D7F3 /* 11724_연결 요소의 개수 */,
 				38F73C8C28338E66002C03CF /* 13023_ABCDE */,
 				388809BC283291F700891435 /* 14501_퇴사 */,
@@ -849,7 +860,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				384D0C84283792DC00F9D7F3 /* main.swift in Sources */,
+				384836AC283BAA550052F100 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
