@@ -19,7 +19,7 @@ for _ in 0..<n {
     ground.append(readLine()!.split(separator: " ").map { Int(String($0))! })
 }
 
-func dfs(_ i: Int, _ j: Int) -> Int {
+func bfs(_ i: Int, _ j: Int) -> Int {
     var queue = [(Int, Int)]()
     queue.append((i, j))
     visited[i][j] = true  // 방문처리
@@ -72,7 +72,7 @@ while true {
     for i in 0..<n {
         for j in 0..<n {
             if !visited[i][j] {
-                if dfs(i, j) >= 2 {
+                if bfs(i, j) >= 2 {
                     check = true
                 }
             }
@@ -82,7 +82,6 @@ while true {
     if !check { // 더이상 union 의 개수가 없는 경우 check가 false 임
         break
     }
-    
     day += 1
 }
 
