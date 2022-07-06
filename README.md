@@ -79,7 +79,8 @@
 |56|**<center>2022.06.01</center>** | 그래프, DFS | <center>[백준 4963 섬의 개수 ](https://www.acmicpc.net/problem/4963) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/4963_%EC%84%AC%EC%9D%98%EA%B0%9C%EC%88%98/main.swift)* |
 |57|**<center>2022.06.23</center>** | 그래프, BFS | <center>[백준 2178 미로탐색](https://www.acmicpc.net/problem/2178) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/2178_%EB%AF%B8%EB%A1%9C%ED%83%90%EC%83%89/main.swift)* |
 |58|**<center>2022.06.23</center>** | 그래프, BFS | <center>[백준 7576 토마토](https://www.acmicpc.net/problem/7576) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/7576_%ED%86%A0%EB%A7%88%ED%86%A0/main.swift)* |
-|59|**<center>2022.06.30</center>** | DBF, BFS | <center>[백준 16947 서울 지하철 2호선](https://www.acmicpc.net/problem/16947) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/16947_%EC%84%9C%EC%9A%B8%EC%A7%80%ED%95%98%EC%B2%A02%ED%98%B8%EC%84%A0/main.swift)* |
+|59|**<center>2022.06.30</center>** | DFS, BFS | <center>[백준 16947 서울 지하철 2호선](https://www.acmicpc.net/problem/16947) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/16947_%EC%84%9C%EC%9A%B8%EC%A7%80%ED%95%98%EC%B2%A02%ED%98%B8%EC%84%A0/main.swift)* |
+|60|**<center>2022.07.06</center>** | DFS | <center>[백준 16234 인구이동](https://www.acmicpc.net/problem/16234) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/16234_%EC%9D%B8%EA%B5%AC%EC%9D%B4%EB%8F%99/main.swift)* |
 
 
 
