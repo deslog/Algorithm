@@ -29,6 +29,7 @@
 		385BB520287D5E490067AFF4 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		385BB525287F1FFA0067AFF4 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		385BB52828802DA20067AFF4 /* basic solution (math).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "basic solution (math).swift"; sourceTree = "<group>"; };
+		385BB52A288039140067AFF4 /* dp solution.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "dp solution.swift"; sourceTree = "<group>"; };
 		388809B5282FC77D00891435 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		388809B82830D72000891435 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		388809BD2832920500891435 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -188,6 +189,7 @@
 			isa = PBXGroup;
 			children = (
 				385BB52828802DA20067AFF4 /* basic solution (math).swift */,
+				385BB52A288039140067AFF4 /* dp solution.swift */,
 			);
 			name = "2839_설탕배달";
 			path = "2839_설탕배달";
