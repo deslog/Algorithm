@@ -85,9 +85,8 @@
 |62|**<center>2022.07.07</center>** | DP | <center>[백준 1912 연속합](https://www.acmicpc.net/problem/1912) </center> |*[Source Code](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/1912_%EC%97%B0%EC%86%8D%ED%95%A9/main.swift)* |
 |63|**<center>2022.07.12</center>** | DP | <center>[백준 2579 계단 오르기](https://www.acmicpc.net/problem/2579) </center> |*[Source Code](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/2579_%EA%B3%84%EB%8B%A8%EC%98%A4%EB%A5%B4%EA%B8%B0/main.swift)* |
 |64|**<center>2022.07.14</center>** | BFS | <center>[백준 14502 연구소](https://www.acmicpc.net/problem/14502) </center> |*[Source Code](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/14502_%EC%97%B0%EA%B5%AC%EC%86%8C/main.swift)* |
-
-
-
+|65|**<center>2022.07.14</center>** | 그리디(탐욕?) | <center>[백준 2839 설탕배달](https://www.acmicpc.net/problem/2839) </center> |*[Source Code](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/2839_%EC%84%A4%ED%83%95%EB%B0%B0%EB%8B%AC/basic%20solution%20(math).swift)* |
+|66|**<center>2022.07.14</center>** | DP | <center>[백준 2839 설탕배달](https://www.acmicpc.net/problem/2839) </center> |*[Source Code](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/2839_%EC%84%A4%ED%83%95%EB%B0%B0%EB%8B%AC/dp%20solution.swift)* |
 
 
 
