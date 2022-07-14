@@ -84,6 +84,8 @@
 |61|**<center>2022.07.06</center>** | BFS | <center>[백준 2636 치즈](https://www.acmicpc.net/problem/2636) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/2636_%EC%B9%98%EC%A6%88/main.swift)* |
 |62|**<center>2022.07.07</center>** | DP | <center>[백준 1912 연속합](https://www.acmicpc.net/problem/1912) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/1912_%EC%97%B0%EC%86%8D%ED%95%A9/main.swift)* |
 |63|**<center>2022.07.12</center>** | DP | <center>[백준 2579 계단 오르기](https://www.acmicpc.net/problem/2579) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/2579_%EA%B3%84%EB%8B%A8%EC%98%A4%EB%A5%B4%EA%B8%B0/main.swift)* |
+|64|**<center>2022.07.14</center>** | BFS | <center>[백준 14502 연구소](https://www.acmicpc.net/problem/14502) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/14502_%EC%97%B0%EA%B5%AC%EC%86%8C/main.swift)* |
+
 
 
 
