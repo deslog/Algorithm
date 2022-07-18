@@ -19,6 +19,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		38166BA62885AFC300DD3D41 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		38390AD7283F59DA0070EF8F /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		384712A7283DA6FA00C57870 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		384836AB283BAA550052F100 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -113,6 +114,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		38166BA52885AFB100DD3D41 /* 12865_평범한 배낭 */ = {
+			isa = PBXGroup;
+			children = (
+				38166BA62885AFC300DD3D41 /* main.swift */,
+			);
+			name = "12865_평범한 배낭";
+			path = "12865_평범한 배낭";
+			sourceTree = "<group>";
+		};
 		38390AD6283F59CA0070EF8F /* 13913_숨바꼭질4 */ = {
 			isa = PBXGroup;
 			children = (
@@ -531,6 +541,7 @@
 		A755BDAD27ACFFFA004CADD9 /* Boj */ = {
 			isa = PBXGroup;
 			children = (
+				38166BA52885AFB100DD3D41 /* 12865_평범한 배낭 */,
 				385BB52728802D960067AFF4 /* 2839_설탕배달 */,
 				385BB524287F1FF10067AFF4 /* 14502_연구소 */,
 				385BB51F287D5E2D0067AFF4 /* 2579_계단오르기 */,
