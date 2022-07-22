@@ -6,6 +6,10 @@
 	objectVersion = 55;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		38166BB0288AC2A200DD3D41 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38166BAE288AB67000DD3D41 /* main.swift */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXCopyFilesBuildPhase section */
 		A755BDA127ACFF93004CADD9 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -20,6 +24,7 @@
 
 /* Begin PBXFileReference section */
 		38166BA62885AFC300DD3D41 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		38166BAE288AB67000DD3D41 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		38390AD7283F59DA0070EF8F /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		384712A7283DA6FA00C57870 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		384836AB283BAA550052F100 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -121,6 +126,15 @@
 			);
 			name = "12865_평범한 배낭";
 			path = "12865_평범한 배낭";
+			sourceTree = "<group>";
+		};
+		38166BAD288AB66500DD3D41 /* 1446_지름길 */ = {
+			isa = PBXGroup;
+			children = (
+				38166BAE288AB67000DD3D41 /* main.swift */,
+			);
+			name = "1446_지름길";
+			path = "1446_지름길";
 			sourceTree = "<group>";
 		};
 		38390AD6283F59CA0070EF8F /* 13913_숨바꼭질4 */ = {
@@ -541,6 +555,7 @@
 		A755BDAD27ACFFFA004CADD9 /* Boj */ = {
 			isa = PBXGroup;
 			children = (
+				38166BAD288AB66500DD3D41 /* 1446_지름길 */,
 				38166BA52885AFB100DD3D41 /* 12865_평범한 배낭 */,
 				385BB52728802D960067AFF4 /* 2839_설탕배달 */,
 				385BB524287F1FF10067AFF4 /* 14502_연구소 */,
@@ -1003,6 +1018,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				38166BB0288AC2A200DD3D41 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
