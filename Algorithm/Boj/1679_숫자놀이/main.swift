@@ -23,7 +23,9 @@ for i in 2..<k+1 {
     for p in previous {
         for num in nums {
             visited[num+p] = true
-            dp[i].append(num+p)
+            if !dp[i].contains(num+p) {
+                dp[i].append(num+p)
+            }
         }
     }
 }
