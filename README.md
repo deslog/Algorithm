@@ -89,7 +89,7 @@
 |66|**<center>2022.07.14</center>** | DP | <center>[백준 2839 설탕배달](https://www.acmicpc.net/problem/2839) </center> |*[Code](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/2839_%EC%84%A4%ED%83%95%EB%B0%B0%EB%8B%AC/dp%20solution.swift)* |
 |67|**<center>2022.07.19</center>** | DP,Knapsack | <center>[백준 12865 평범한 배낭](https://www.acmicpc.net/problem/12865) </center> |*[Code](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/12865_%ED%8F%89%EB%B2%94%ED%95%9C%20%EB%B0%B0%EB%82%AD/main.swift)* | Well-Known |
 |68|**<center>2022.07.22</center>** | DP, 다익스트라 | <center>[백준 1446 지름길](https://www.acmicpc.net/problem/1446) </center> |*[Code](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/1446_%EC%A7%80%EB%A6%84%EA%B8%B8/main.swift)* | |
-|69|**<center>2022.07.28</center>** | DP | <center>[백준 1679 숫자놀이](https://www.acmicpc.net/problem/1679) </center> |*[Code](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/1679_%EC%88%AB%EC%9E%90%EB%86%80%EC%9D%B4/main.swift)* | |
+|69|**<center>2022.07.28</center>** | DP | <center>[백준 1679 숫자놀이](https://www.acmicpc.net/problem/1679) </center> |*[Code](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/1679_%EC%88%AB%EC%9E%90%EB%86%80%EC%9D%B4/main.swift)* | 
 
 
 
