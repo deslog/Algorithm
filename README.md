@@ -89,7 +89,7 @@
 |66|**<center>2022.07.14</center>** | DP | <center>[백준 2839 설탕배달](https://www.acmicpc.net/problem/2839) </center> |*[Code](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/2839_%EC%84%A4%ED%83%95%EB%B0%B0%EB%8B%AC/dp%20solution.swift)* |
 |67|**<center>2022.07.19</center>** | DP,Knapsack | <center>[백준 12865 평범한 배낭](https://www.acmicpc.net/problem/12865) </center> |*[Code](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/12865_%ED%8F%89%EB%B2%94%ED%95%9C%20%EB%B0%B0%EB%82%AD/main.swift)* | Well-Known |
 |68|**<center>2022.07.22</center>** | DP, 다익스트라 | <center>[백준 1446 지름길](https://www.acmicpc.net/problem/1446) </center> |*[Code](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/1446_%EC%A7%80%EB%A6%84%EA%B8%B8/main.swift)* | |
-|69|**<center>2022.07.28</center>** | DP | <center>[백준 1679 숫자놀이](https://www.acmicpc.net/problem/1679) </center> |*[Code](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/1679_%EC%88%AB%EC%9E%90%EB%86%80%EC%9D%B4/main.swift)* | |
+|69|**<center>2022.07.28</center>** | DP | <center>[백준 1679 숫자놀이](https://www.acmicpc.net/problem/1679) </center> |*[Code](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/1679_%EC%88%AB%EC%9E%90%EB%86%80%EC%9D%B4/main.swift)* | 
 
 
 
@@ -107,6 +107,7 @@
 <br>
 
 ### 👉🏻 아래 강의에 나온 문제를 순서대로 풀 예정입니다. 코딩테스트 합격을 위하여!
+### 2022년 하반기 부터는 순서에 따르지 않고 카카오 등 다른 유형의 문제도 많이 풀 예정입니다.
 * [백준 알고리즘 기초 2/2 강의](https://code.plus/course/42)
 * [알고리즘 중급 1/3](https://code.plus/course/43)
 * [알고리즘 중급 2/3](https://code.plus/course/44)
