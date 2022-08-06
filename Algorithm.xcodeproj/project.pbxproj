@@ -230,12 +230,12 @@
 			path = "1679_숫자놀이";
 			sourceTree = "<group>";
 		};
-		3861D15F289805C00001C187 /* kakao_[1차]비밀지도 */ = {
+		3861D15F289805C00001C187 /* kakao_실패율 */ = {
 			isa = PBXGroup;
 			children = (
 				3861D160289805D00001C187 /* main.swift */,
 			);
-			name = "kakao_[1차]비밀지도";
+			name = "kakao_실패율";
 			path = "kakao_[1차]비밀지도";
 			sourceTree = "<group>";
 		};
@@ -296,7 +296,7 @@
 		38AE08B8281C0D5E0035EB0C /* Programmers */ = {
 			isa = PBXGroup;
 			children = (
-				3861D15F289805C00001C187 /* kakao_[1차]비밀지도 */,
+				3861D15F289805C00001C187 /* kakao_실패율 */,
 				38D3B0A0282BD5590024EF3B /* kakao_메뉴 리뉴얼 */,
 				38D3B090282946C30024EF3B /* kakao_주차 요금 계산 */,
 				38AE08BF281C10450035EB0C /* kakao_신고 결과 받기 */,
