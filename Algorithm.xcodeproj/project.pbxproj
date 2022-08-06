@@ -6,6 +6,10 @@
 	objectVersion = 55;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		3861D166289EC5060001C187 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3861D165289EC5060001C187 /* main.swift */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXCopyFilesBuildPhase section */
 		A755BDA127ACFF93004CADD9 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -34,6 +38,7 @@
 		385BB52A288039140067AFF4 /* dp solution.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "dp solution.swift"; sourceTree = "<group>"; };
 		3861D14F2892659E0001C187 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		3861D160289805D00001C187 /* filter사용_시간초과.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "filter사용_시간초과.swift"; sourceTree = "<group>"; };
+		3861D165289EC5060001C187 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		388809B5282FC77D00891435 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		388809B82830D72000891435 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		388809BD2832920500891435 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -230,6 +235,7 @@
 			isa = PBXGroup;
 			children = (
 				3861D160289805D00001C187 /* filter사용_시간초과.swift */,
+				3861D165289EC5060001C187 /* main.swift */,
 			);
 			name = "kakao_실패율";
 			path = "kakao_[1차]비밀지도";
@@ -1036,6 +1042,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3861D166289EC5060001C187 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
