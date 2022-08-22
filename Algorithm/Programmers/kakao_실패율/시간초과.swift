@@ -6,7 +6,7 @@
 //
 // filter 사용시 시간 초과
 
-import Foundationimport Foundation
+import Foundation
 
 func solution(_ N:Int, _ stages:[Int]) -> [Int] {
     var failure = [Int: Double]()
