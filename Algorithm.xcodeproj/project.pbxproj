@@ -6,10 +6,6 @@
 	objectVersion = 55;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		385A306928B3B85D00A648A0 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 385A306828B3B85D00A648A0 /* main.swift */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXCopyFilesBuildPhase section */
 		A755BDA127ACFF93004CADD9 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -32,6 +28,7 @@
 		385A306328B3B35000A648A0 /* 시간초과.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "시간초과.swift"; sourceTree = "<group>"; };
 		385A306528B3B35500A648A0 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		385A306828B3B85D00A648A0 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		385A306F28B5006000A648A0 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		385BB4DB287578700067AFF4 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		385BB4DE2875A7B20067AFF4 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		385BB5122876B7E30067AFF4 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -194,6 +191,15 @@
 			);
 			name = "kakao_k진수에서 소수 개수 구하기";
 			path = "kakao_k진수에서 소수 개수 구하기";
+			sourceTree = "<group>";
+		};
+		385A306E28B5004C00A648A0 /* 19238_스타트 택시 */ = {
+			isa = PBXGroup;
+			children = (
+				385A306F28B5006000A648A0 /* main.swift */,
+			);
+			name = "19238_스타트 택시";
+			path = "19238_스타트 택시";
 			sourceTree = "<group>";
 		};
 		385BB4DA287578450067AFF4 /* 16234_인구이동 */ = {
@@ -589,6 +595,7 @@
 		A755BDAD27ACFFFA004CADD9 /* Boj */ = {
 			isa = PBXGroup;
 			children = (
+				385A306E28B5004C00A648A0 /* 19238_스타트 택시 */,
 				3861D14E289265910001C187 /* 1679_숫자놀이 */,
 				38166BAD288AB66500DD3D41 /* 1446_지름길 */,
 				38166BA52885AFB100DD3D41 /* 12865_평범한 배낭 */,
@@ -1053,7 +1060,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				385A306928B3B85D00A648A0 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
