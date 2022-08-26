@@ -26,6 +26,7 @@ import Foundation
 
 import Foundation
 
+// 예외처리 생각하자. n=1일경우! 
 let n = Int(readLine()!)!
 var dp = Array(repeating: 0, count: n+1)
 
