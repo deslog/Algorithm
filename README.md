@@ -90,6 +90,7 @@
 |67|**<center>2022.07.19</center>** | DP,Knapsack | <center>[백준 12865 평범한 배낭](https://www.acmicpc.net/problem/12865) </center> |*[Code](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/12865_%ED%8F%89%EB%B2%94%ED%95%9C%20%EB%B0%B0%EB%82%AD/main.swift)* | Well-Known |
 |68|**<center>2022.07.22</center>** | DP, 다익스트라 | <center>[백준 1446 지름길](https://www.acmicpc.net/problem/1446) </center> |*[Code](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/1446_%EC%A7%80%EB%A6%84%EA%B8%B8/main.swift)* | |
 |69|**<center>2022.07.28</center>** | DP | <center>[백준 1679 숫자놀이](https://www.acmicpc.net/problem/1679) </center> |*[Code](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/1679_%EC%88%AB%EC%9E%90%EB%86%80%EC%9D%B4/main.swift)* | 
+|70|**<center>2022.08.31</center>** | 그리디(탐욕) | <center>[백준 1931 회의실 배정](https://www.acmicpc.net/problem/1931) </center> |*[Code](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/1931_%ED%9A%8C%EC%9D%98%EC%8B%A4%20%EB%B0%B0%EC%A0%95/main.swift)* | 
 
 
 
