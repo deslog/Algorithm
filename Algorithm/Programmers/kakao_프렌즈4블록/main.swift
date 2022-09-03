@@ -7,10 +7,22 @@
 
 import Foundation
 
-let m = 4
-let n = 5
-let board = ["CCBDE", "AAADE", "AAABF", "CCBBF"]
+//let m = 4
+//let n = 5
+//let board = ["CCBDE", "AAADE", "AAABF", "CCBBF"]
 // 결과값 : 14
+
+// 다른 test case
+//let m = 8
+//let n = 2
+//let board = ["CC", "BB", "AA", "BB", "BB", "AA", "BB", "CC"]
+// 결과값 : 16
+
+// 반례
+let m = 5
+let n = 6
+let board = ["AAAAAA","BBAATB","BBAATB","JJJTAA","JJJTAA"]
+// 결과값 : 24
 
 func solution(_ m:Int, _ n:Int, _ board:[String]) -> Int {
 
@@ -54,15 +66,34 @@ func solution(_ m:Int, _ n:Int, _ board:[String]) -> Int {
         }
 
         // 지금 블록 없는 곳이 "-"인데, 블록을 차례대로 밑으로 내려줘야함
-        for i in 0..<m-1 {
-            for j in 0..<n {
-                let block = newBoard[i][j]
-                let under = newBoard[i+1][j]
-                if under == "-" {
+        //        for i in 0..<m-1 {
+        //            for j in 0..<n {
+        //                let block = newBoard[i][j]
+        //                let under = newBoard[i+1][j]
+        //                if block != "-", under == "-" {
+        //                    newBoard[i+1][j] = block
+        //                    newBoard[i][j] = "-"
+        //                } else {
+        //                    continue
+        //                }
+        //            }
+        //        }
+
+        for j in stride(from: 0, to: n, by: 1) { //열
+            var first = 0 //블록이 내려와야할 행 위치
+            if newBoard[m-1][j] == "-" {
+                first = m-1
+            }
+
+            for i in stride(from: m-2, through: 0, by: -1) { //행
+                if newBoard[i][j] == "-" {
+                    if i > first {
+                        first = i
+                    }
+                } else if newBoard[i+1][j] == "-"{
+                    newBoard[first][j] = newBoard[i][j]
                     newBoard[i][j] = "-"
-                    newBoard[i+1][j] = block
-                } else {
-                    continue
+                    first -= 1
                 }
             }
         }
