@@ -108,6 +108,7 @@
 |5|**<center>2022.08.23</center>** | 카카오 | <center>[Kakao - k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Programmers/kakao_k%EC%A7%84%EC%88%98%EC%97%90%EC%84%9C%20%EC%86%8C%EC%88%98%20%EA%B0%9C%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0/main.swift)* |
 |6|**<center>2022.08.31</center>** | 카카오 | <center>[Kakao - 후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Programmers/kakao_%ED%9B%84%EB%B3%B4%ED%82%A4/main.swift)* |
 |7|**<center>2022.09.01</center>** | 카카오 | <center>[Kakao - 수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Programmers/kakao_%EC%88%98%EC%8B%9D%20%EC%B5%9C%EB%8C%80%ED%99%94/main.swift)* |
+|8|**<center>2022.09.03</center>** | 카카오 | <center>[Kakao - [1차]프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Programmers/kakao_%ED%94%84%EB%A0%8C%EC%A6%884%EB%B8%94%EB%A1%9D/main.swift)* |
 
 
 
