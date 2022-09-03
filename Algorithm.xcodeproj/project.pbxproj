@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		385A30C028C1133F00A648A0 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 385A30BF28C1133F00A648A0 /* main.swift */; };
+		385A30C328C3234300A648A0 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 385A30C228C3234300A648A0 /* main.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -40,6 +40,7 @@
 		385A30B828BF5F3300A648A0 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		385A30BB28C086B100A648A0 /* 0901.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 0901.swift; sourceTree = "<group>"; };
 		385A30BF28C1133F00A648A0 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		385A30C228C3234300A648A0 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		385BB4DB287578700067AFF4 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		385BB4DE2875A7B20067AFF4 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		385BB5122876B7E30067AFF4 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -250,6 +251,15 @@
 			path = "kakao_수식 최대화";
 			sourceTree = "<group>";
 		};
+		385A30C128C3233600A648A0 /* kakao_프렌즈4블록 */ = {
+			isa = PBXGroup;
+			children = (
+				385A30C228C3234300A648A0 /* main.swift */,
+			);
+			name = "kakao_프렌즈4블록";
+			path = "kakao_프렌즈4블록";
+			sourceTree = "<group>";
+		};
 		385BB4DA287578450067AFF4 /* 16234_인구이동 */ = {
 			isa = PBXGroup;
 			children = (
@@ -362,6 +372,7 @@
 		38AE08B8281C0D5E0035EB0C /* Programmers */ = {
 			isa = PBXGroup;
 			children = (
+				385A30C128C3233600A648A0 /* kakao_프렌즈4블록 */,
 				385A30BA28C086AA00A648A0 /* kakao_수식 최대화 */,
 				385A30B228BE80D900A648A0 /* kakao_후보키 */,
 				385A309528B8C95100A648A0 /* kakao_괄호변환 */,
@@ -1114,7 +1125,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				385A30C028C1133F00A648A0 /* main.swift in Sources */,
+				385A30C328C3234300A648A0 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
