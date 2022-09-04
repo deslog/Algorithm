@@ -91,7 +91,7 @@
 |68|**<center>2022.07.22</center>** | DP, 다익스트라 | <center>[백준 1446 지름길](https://www.acmicpc.net/problem/1446) </center> |*[Code](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/1446_%EC%A7%80%EB%A6%84%EA%B8%B8/main.swift)* | |
 |69|**<center>2022.07.28</center>** | DP | <center>[백준 1679 숫자놀이](https://www.acmicpc.net/problem/1679) </center> |*[Code](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/1679_%EC%88%AB%EC%9E%90%EB%86%80%EC%9D%B4/main.swift)* | 
 |70|**<center>2022.08.31</center>** | 그리디(탐욕) | <center>[백준 1931 회의실 배정](https://www.acmicpc.net/problem/1931) </center> |*[Code](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/1931_%ED%9A%8C%EC%9D%98%EC%8B%A4%20%EB%B0%B0%EC%A0%95/main.swift)* | 
-
+|71|**<center>2022.09.04</center>** | 이분탐색 | <center>[백준 1654 랜선 자르기](https://www.acmicpc.net/problem/1654) </center> |*[Code](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/1654_%EB%9E%9C%EC%84%A0%20%EC%9E%90%EB%A5%B4%EA%B8%B0/main.swift)* | 
 
 
 
