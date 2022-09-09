@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		385A30C628C4B57A00A648A0 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 385A30C528C4B57A00A648A0 /* main.swift */; };
+		385A310A28CB196100A648A0 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 385A310928CB196100A648A0 /* main.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -42,6 +42,7 @@
 		385A30BF28C1133F00A648A0 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		385A30C228C3234300A648A0 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		385A30C528C4B57A00A648A0 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		385A310928CB196100A648A0 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		385BB4DB287578700067AFF4 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		385BB4DE2875A7B20067AFF4 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		385BB5122876B7E30067AFF4 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -273,6 +274,7 @@
 		385A30C928C893DC00A648A0 /* kakao_캐시 */ = {
 			isa = PBXGroup;
 			children = (
+				385A310928CB196100A648A0 /* main.swift */,
 			);
 			name = "kakao_캐시";
 			path = "kakao_캐시";
@@ -1145,7 +1147,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				385A30C628C4B57A00A648A0 /* main.swift in Sources */,
+				385A310A28CB196100A648A0 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
