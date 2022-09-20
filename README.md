@@ -26,7 +26,7 @@
 |3|**<center>2022.02.05</center>** | 자료구조 | <center>[백준 1158 요세푸스 문제](https://www.acmicpc.net/problem/1158) </center> |*[Code](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/1158_%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4%20%EB%AC%B8%EC%A0%9C/main.swift)* |
 |4|**<center>2022.02.06</center>** | 자료구조 | <center>[백준 10866 덱](https://www.acmicpc.net/problem/10866) </center> |*[Code](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/10866_%EB%8D%B1/main.swift)* |
 |5|**<center>2022.02.07</center>** | 자료구조 | <center>[백준 17413 단어뒤집기2](https://www.acmicpc.net/problem/17413) </center> |*[Code](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/17413_%EB%8B%A8%EC%96%B4%EB%92%A4%EC%A7%91%EA%B8%B02/main.swift)* |
-|6|**<center>2022.02.08</center>** | 자료구조 | <center>[백준 10799 쇠막대기](https://www.acmicpc.net/problem/10799) </center> |*[Code](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/10799_%EC%87%A0%EB%A7%89%EB%8C%80%EA%B8%B0/main.swift)* |
+|6|**<center>2022.02.08</center>** | 자료구조 | <center>[백준 10799 쇠막대기](https://www.acmicpc.net/problem/10799) </center> |*[Code](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/10799_%EC%87%A0%EB%A7%89%EB%8C%80%EA%B8%B0/main.swift)* | [22.09.20 복습](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/10799_%EC%87%A0%EB%A7%89%EB%8C%80%EA%B8%B0/main.swift) |
 |7|**<center>2022.02.11</center>** | 자료구조 | <center>[백준 1935 후위표기식2](https://www.acmicpc.net/problem/1935) </center> |*[Code](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/1935_%ED%9B%84%EC%9C%84%ED%91%9C%EA%B8%B0%EC%8B%9D2/main.swift)* |
 |8|**<center>2022.02.12</center>** | 자료구조 | <center>[백준 1918 후위표기식](https://www.acmicpc.net/problem/1918) </center> |*[Code](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/1918_%ED%9B%84%EC%9C%84%ED%91%9C%EA%B8%B0%EC%8B%9D/main.swift)* |
 |9|**<center>2022.02.13</center>** | 자료구조 | <center>[백준 10808 알파벳개수](https://www.acmicpc.net/problem/10808) </center> |*[Code](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/10808_%EC%95%8C%ED%8C%8C%EB%B2%B3%20%EA%B0%9C%EC%88%98/main.swift)* |
@@ -113,6 +113,7 @@
 |10|**<center>2022.09.10</center>** | 카카오 | <center>[Kakao - [3차]방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Programmers/kakao_%EB%B0%A9%EA%B8%88%EA%B7%B8%EA%B3%A1/main.swift)* |
 |11|**<center>2022.09.14</center>** | 카카오 | <center>[Kakao - [3차]압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Programmers/kakao_%EC%95%95%EC%B6%95/main.swift)* |
 |12|**<center>2022.09.14</center>** | 카카오 | <center>[Kakao - [3차]파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Programmers/kakao_%ED%8C%8C%EC%9D%BC%EB%AA%85%20%EC%A0%95%EB%A0%AC/main.swift)* |
+|13|**<center>2022.09.20</center>** | DFS | <center>[여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Programmers/%EC%97%AC%ED%96%89%EA%B2%BD%EB%A1%9C/main.swift)* | ✅보고품, 다시하자 |
 
 
 
