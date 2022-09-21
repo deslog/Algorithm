@@ -27,7 +27,7 @@ func solution(_ jobs:[[Int]]) -> Int {
                 break
             }
         }
-        // for문안에다가 넣어서 시간 한참걸렸네 ㅠㅠ 
+        // for문안에다가 넣어서 시간 한참걸렸네 ㅠㅠ
         if !check {
             now += 1
         }
