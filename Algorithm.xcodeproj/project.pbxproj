@@ -6,10 +6,6 @@
 	objectVersion = 55;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		A77A0ADC28DB18E100718C28 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A77A0ADB28DB18E100718C28 /* main.swift */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXCopyFilesBuildPhase section */
 		A755BDA127ACFF93004CADD9 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -103,6 +99,7 @@
 		A75D814F2863E8AC008AB3EC /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A75D81522863F8A8008AB3EC /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A760155727D0F46900B4F74A /* 0303.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 0303.swift; sourceTree = "<group>"; };
+		A76CF38528DDE5A800760F87 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A770197027E1C3CB0034CE56 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A774DE9127C0A57900A2807C /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A77A0ADB28DB18E100718C28 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -524,6 +521,7 @@
 			isa = PBXGroup;
 			children = (
 				38D3B09E282A88970024EF3B /* 1697.swift */,
+				A76CF38528DDE5A800760F87 /* main.swift */,
 			);
 			name = "1697_숨박꼭질";
 			path = "1697_숨박꼭질";
@@ -1226,7 +1224,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A77A0ADC28DB18E100718C28 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
