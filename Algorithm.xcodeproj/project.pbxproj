@@ -6,6 +6,10 @@
 	objectVersion = 55;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		A76CF3A128E6DBE400760F87 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A76CF3A028E6DBE400760F87 /* main.swift */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXCopyFilesBuildPhase section */
 		A755BDA127ACFF93004CADD9 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -100,6 +104,7 @@
 		A75D81522863F8A8008AB3EC /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A760155727D0F46900B4F74A /* 0303.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 0303.swift; sourceTree = "<group>"; };
 		A76CF38528DDE5A800760F87 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		A76CF3A028E6DBE400760F87 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A770197027E1C3CB0034CE56 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A774DE9127C0A57900A2807C /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A77A0ADB28DB18E100718C28 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -744,6 +749,7 @@
 		A755BDAD27ACFFFA004CADD9 /* Boj */ = {
 			isa = PBXGroup;
 			children = (
+				A76CF39F28E6DBDA00760F87 /* 2206_벽 부수고 이동하기 */,
 				385A314E28D83F0000A648A0 /* 11403_경로찾기 */,
 				385A30C428C4B57000A648A0 /* 1654_랜선 자르기 */,
 				385A30B728BF5F2300A648A0 /* 1931_회의실 배정 */,
@@ -927,6 +933,15 @@
 			);
 			name = "1463_1로 만들기";
 			path = "1463_1로 만들기";
+			sourceTree = "<group>";
+		};
+		A76CF39F28E6DBDA00760F87 /* 2206_벽 부수고 이동하기 */ = {
+			isa = PBXGroup;
+			children = (
+				A76CF3A028E6DBE400760F87 /* main.swift */,
+			);
+			name = "2206_벽 부수고 이동하기";
+			path = "2206_벽 부수고 이동하기";
 			sourceTree = "<group>";
 		};
 		A770196F27E1C3B60034CE56 /* 1699_제곱수의 합 */ = {
@@ -1224,6 +1239,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A76CF3A128E6DBE400760F87 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
