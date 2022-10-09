@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		A733171528F17F1B002AB5A0 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A733171428F17F1B002AB5A0 /* main.swift */; };
+		A7534A1828F2E866006440AA /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7534A1728F2E866006440AA /* main.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -92,6 +92,7 @@
 		A74FDEEE27E3627900599092 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A74FDEF127E4A7AF00599092 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A74FDEF427E4E3F600599092 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		A7534A1728F2E866006440AA /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A755BDA327ACFF93004CADD9 /* Algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm; sourceTree = BUILT_PRODUCTS_DIR; };
 		A755BDAF27AD003D004CADD9 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A755BDB227AD0597004CADD9 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -457,6 +458,7 @@
 		38AE08B8281C0D5E0035EB0C /* Programmers */ = {
 			isa = PBXGroup;
 			children = (
+				A7534A1628F2E850006440AA /* JadenCase문자열만들기 (lv.2) */,
 				A733171328F17F11002AB5A0 /* 최댓값과 최솟값(lv.2) */,
 				A77A0ADA28DB18C900718C28 /* 디스크컨트롤러(lv.3) */,
 				385A315128D9ADCE00A648A0 /* 여행경로 */,
@@ -730,6 +732,15 @@
 			);
 			name = "1149_RGB거리";
 			path = "1149_RGB거리";
+			sourceTree = "<group>";
+		};
+		A7534A1628F2E850006440AA /* JadenCase문자열만들기 (lv.2) */ = {
+			isa = PBXGroup;
+			children = (
+				A7534A1728F2E866006440AA /* main.swift */,
+			);
+			name = "JadenCase문자열만들기 (lv.2)";
+			path = "JadenCase문자열만들기 (lv.2)";
 			sourceTree = "<group>";
 		};
 		A755BD9A27ACFF93004CADD9 = {
@@ -1219,7 +1230,7 @@
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1320;
-				LastUpgradeCheck = 1330;
+				LastUpgradeCheck = 1400;
 				TargetAttributes = {
 					A755BDA227ACFF93004CADD9 = {
 						CreatedOnToolsVersion = 13.2.1;
@@ -1250,7 +1261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A733171528F17F1B002AB5A0 /* main.swift in Sources */,
+				A7534A1828F2E866006440AA /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1291,6 +1302,7 @@
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
+				DEAD_CODE_STRIPPING = YES;
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
@@ -1352,6 +1364,7 @@
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
+				DEAD_CODE_STRIPPING = YES;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
@@ -1378,6 +1391,7 @@
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_IDENTITY = "-";
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = 82DRSFKFS9;
 				ENABLE_HARDENED_RUNTIME = YES;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -1398,6 +1412,7 @@
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_IDENTITY = "-";
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = 82DRSFKFS9;
 				ENABLE_HARDENED_RUNTIME = YES;
 				LD_RUNPATH_SEARCH_PATHS = (
