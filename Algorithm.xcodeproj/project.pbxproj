@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		A7534A1828F2E866006440AA /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7534A1728F2E866006440AA /* main.swift */; };
+		A7534A1B28F300AD006440AA /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7534A1A28F300AD006440AA /* main.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -93,6 +93,7 @@
 		A74FDEF127E4A7AF00599092 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A74FDEF427E4E3F600599092 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A7534A1728F2E866006440AA /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		A7534A1A28F300AD006440AA /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A755BDA327ACFF93004CADD9 /* Algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm; sourceTree = BUILT_PRODUCTS_DIR; };
 		A755BDAF27AD003D004CADD9 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A755BDB227AD0597004CADD9 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -458,6 +459,7 @@
 		38AE08B8281C0D5E0035EB0C /* Programmers */ = {
 			isa = PBXGroup;
 			children = (
+				A7534A1928F30092006440AA /* 최솟값만들기(lv.2) */,
 				A7534A1628F2E850006440AA /* JadenCase문자열만들기 (lv.2) */,
 				A733171328F17F11002AB5A0 /* 최댓값과 최솟값(lv.2) */,
 				A77A0ADA28DB18C900718C28 /* 디스크컨트롤러(lv.3) */,
@@ -741,6 +743,15 @@
 			);
 			name = "JadenCase문자열만들기 (lv.2)";
 			path = "JadenCase문자열만들기 (lv.2)";
+			sourceTree = "<group>";
+		};
+		A7534A1928F30092006440AA /* 최솟값만들기(lv.2) */ = {
+			isa = PBXGroup;
+			children = (
+				A7534A1A28F300AD006440AA /* main.swift */,
+			);
+			name = "최솟값만들기(lv.2)";
+			path = "최솟값만들기(lv.2)";
 			sourceTree = "<group>";
 		};
 		A755BD9A27ACFF93004CADD9 = {
@@ -1261,7 +1272,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A7534A1828F2E866006440AA /* main.swift in Sources */,
+				A7534A1B28F300AD006440AA /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
