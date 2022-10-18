@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		A7534A2128F6D1D1006440AA /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7534A2028F6D1D1006440AA /* main.swift */; };
+		A7534A2528F71414006440AA /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7534A2428F71414006440AA /* main.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -96,6 +96,7 @@
 		A7534A1A28F300AD006440AA /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A7534A1D28F50AC9006440AA /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A7534A2028F6D1D1006440AA /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		A7534A2428F71414006440AA /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A755BDA327ACFF93004CADD9 /* Algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm; sourceTree = BUILT_PRODUCTS_DIR; };
 		A755BDAF27AD003D004CADD9 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A755BDB227AD0597004CADD9 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -775,6 +776,22 @@
 			path = "5585_거스름돈";
 			sourceTree = "<group>";
 		};
+		A7534A2228F713F1006440AA /* ThisIsCodingTest */ = {
+			isa = PBXGroup;
+			children = (
+				A7534A2328F7140A006440AA /* Greedy */,
+			);
+			path = ThisIsCodingTest;
+			sourceTree = "<group>";
+		};
+		A7534A2328F7140A006440AA /* Greedy */ = {
+			isa = PBXGroup;
+			children = (
+				A7534A2428F71414006440AA /* main.swift */,
+			);
+			path = Greedy;
+			sourceTree = "<group>";
+		};
 		A755BD9A27ACFF93004CADD9 = {
 			isa = PBXGroup;
 			children = (
@@ -794,6 +811,7 @@
 		A755BDA527ACFF93004CADD9 /* Algorithm */ = {
 			isa = PBXGroup;
 			children = (
+				A7534A2228F713F1006440AA /* ThisIsCodingTest */,
 				38AE08B8281C0D5E0035EB0C /* Programmers */,
 				A755BDAD27ACFFFA004CADD9 /* Boj */,
 			);
@@ -1294,7 +1312,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A7534A2128F6D1D1006440AA /* main.swift in Sources */,
+				A7534A2528F71414006440AA /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
