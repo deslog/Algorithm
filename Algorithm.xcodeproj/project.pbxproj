@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		388FD98829725E1000940AA3 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 388FD98729725E1000940AA3 /* main.swift */; };
+		388FD98E29726BCB00940AA3 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 388FD98D29726BCB00940AA3 /* main.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -83,6 +83,8 @@
 		388FD9812970FABA00940AA3 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		388FD984297258D800940AA3 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		388FD98729725E1000940AA3 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		388FD98A297266D500940AA3 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		388FD98D29726BCB00940AA3 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		38A195922846134400ABB9A7 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		38A44C80294F0EC30019F349 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		38A44C83294F140D0019F349 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -607,6 +609,24 @@
 			path = "15656_N과M(7)";
 			sourceTree = "<group>";
 		};
+		388FD989297266CB00940AA3 /* 15657_N과M(8) */ = {
+			isa = PBXGroup;
+			children = (
+				388FD98A297266D500940AA3 /* main.swift */,
+			);
+			name = "15657_N과M(8)";
+			path = "15657_N과M(8)";
+			sourceTree = "<group>";
+		};
+		388FD98C29726BB800940AA3 /* 18290_NM과K(1) */ = {
+			isa = PBXGroup;
+			children = (
+				388FD98D29726BCB00940AA3 /* main.swift */,
+			);
+			name = "18290_NM과K(1)";
+			path = "18290_NM과K(1)";
+			sourceTree = "<group>";
+		};
 		38A195912846133500ABB9A7 /* 4963_섬의개수 */ = {
 			isa = PBXGroup;
 			children = (
@@ -1040,6 +1060,8 @@
 		A755BDAD27ACFFFA004CADD9 /* Boj */ = {
 			isa = PBXGroup;
 			children = (
+				388FD98C29726BB800940AA3 /* 18290_NM과K(1) */,
+				388FD989297266CB00940AA3 /* 15657_N과M(8) */,
 				388FD98629725E0200940AA3 /* 15656_N과M(7) */,
 				388FD983297258CA00940AA3 /* 15655_N과M(6) */,
 				388FD97E296FA13300940AA3 /* 15652_N과 M(4) */,
@@ -1551,7 +1573,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				388FD98829725E1000940AA3 /* main.swift in Sources */,
+				388FD98E29726BCB00940AA3 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
