@@ -23,7 +23,7 @@
 		38166BAE288AB67000DD3D41 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		38390AD7283F59DA0070EF8F /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		384712A7283DA6FA00C57870 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
-		384836AB283BAA550052F100 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		384836AB283BAA550052F100 /* 220523.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 220523.swift; sourceTree = "<group>"; };
 		384D0C83283792DC00F9D7F3 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		385A306328B3B35000A648A0 /* 시간초과.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "시간초과.swift"; sourceTree = "<group>"; };
 		385A306528B3B35500A648A0 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -221,7 +221,7 @@
 		384836AA283BAA3F0052F100 /* 14889_스타트와 링크 */ = {
 			isa = PBXGroup;
 			children = (
-				384836AB283BAA550052F100 /* main.swift */,
+				384836AB283BAA550052F100 /* 220523.swift */,
 			);
 			name = "14889_스타트와 링크";
 			path = "14889_스타트와 링크";
