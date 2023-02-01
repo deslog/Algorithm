@@ -91,6 +91,7 @@
 		388FDA0C298A38B200940AA3 /* 1이 될 때 까지.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1이 될 때 까지.swift"; sourceTree = "<group>"; };
 		388FDA0F298A3C1A00940AA3 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		388FDA12298A545C00940AA3 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		388FDA14298A608300940AA3 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		38A195922846134400ABB9A7 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		38A44C80294F0EC30019F349 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		38A44C83294F140D0019F349 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -294,6 +295,7 @@
 			isa = PBXGroup;
 			children = (
 				385A30B828BF5F3300A648A0 /* 220831.swift */,
+				388FDA14298A608300940AA3 /* main.swift */,
 			);
 			name = "1931_회의실 배정";
 			path = "1931_회의실 배정";
