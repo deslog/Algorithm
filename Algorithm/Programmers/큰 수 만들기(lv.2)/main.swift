@@ -62,7 +62,7 @@ func solution(_ number:String, _ k:Int) -> String {
     // prefix : 앞에서부터 원하는 갯수의 원소들만 출력해준다.
     // 우리는 number.count - k 자리수를 원해하기 때문에 넣어줘야한다.
     // number = 999 , k = 1 에서 answer은 [9, 9, 9]가 되기 때문에 여기서 한개만 출력해준다. prefix의 역할
-    
+
     return String(answer.map{ String($0) }.joined().prefix(number.count-k))
 }
 
