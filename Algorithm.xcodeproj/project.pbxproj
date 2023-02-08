@@ -6,6 +6,10 @@
 	objectVersion = 55;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		3805173E2993D4AA002F7748 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3805173D2993D4AA002F7748 /* main.swift */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXCopyFilesBuildPhase section */
 		A755BDA127ACFF93004CADD9 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -20,6 +24,7 @@
 
 /* Begin PBXFileReference section */
 		380516A82990DC67002F7748 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		3805173D2993D4AA002F7748 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		38166BA62885AFC300DD3D41 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		38166BAE288AB67000DD3D41 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		38390AD7283F59DA0070EF8F /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -203,6 +208,15 @@
 			);
 			name = "1541_잃어버린 괄호";
 			path = "1541_잃어버린 괄호";
+			sourceTree = "<group>";
+		};
+		3805173C2993D4A0002F7748 /* 섬 연결하기(lv.3) */ = {
+			isa = PBXGroup;
+			children = (
+				3805173D2993D4AA002F7748 /* main.swift */,
+			);
+			name = "섬 연결하기(lv.3)";
+			path = "섬 연결하기(lv.3)";
 			sourceTree = "<group>";
 		};
 		38166BA52885AFB100DD3D41 /* 12865_평범한 배낭 */ = {
@@ -807,6 +821,7 @@
 		38AE08B8281C0D5E0035EB0C /* Programmers */ = {
 			isa = PBXGroup;
 			children = (
+				3805173C2993D4A0002F7748 /* 섬 연결하기(lv.3) */,
 				388FDA21298CF96900940AA3 /* 큰 수 만들기(lv.2) */,
 				388FDA1E298BAE4D00940AA3 /* 조이스틱(lv.2) */,
 				388FDA1B298B9FC700940AA3 /* 체육복(lv.1) */,
@@ -1701,6 +1716,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3805173E2993D4AA002F7748 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
