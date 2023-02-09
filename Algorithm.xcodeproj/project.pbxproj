@@ -6,10 +6,6 @@
 	objectVersion = 55;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		3805173E2993D4AA002F7748 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3805173D2993D4AA002F7748 /* main.swift */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXCopyFilesBuildPhase section */
 		A755BDA127ACFF93004CADD9 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -25,6 +21,7 @@
 /* Begin PBXFileReference section */
 		380516A82990DC67002F7748 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		3805173D2993D4AA002F7748 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		3805174129947FC8002F7748 /* 611_valid triangle number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "611_valid triangle number.swift"; sourceTree = "<group>"; };
 		38166BA62885AFC300DD3D41 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		38166BAE288AB67000DD3D41 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		38390AD7283F59DA0070EF8F /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -217,6 +214,22 @@
 			);
 			name = "섬 연결하기(lv.3)";
 			path = "섬 연결하기(lv.3)";
+			sourceTree = "<group>";
+		};
+		3805173F29947FBB002F7748 /* LeetCode */ = {
+			isa = PBXGroup;
+			children = (
+				3805174029947FC1002F7748 /* Greedy */,
+			);
+			path = LeetCode;
+			sourceTree = "<group>";
+		};
+		3805174029947FC1002F7748 /* Greedy */ = {
+			isa = PBXGroup;
+			children = (
+				3805174129947FC8002F7748 /* 611_valid triangle number.swift */,
+			);
+			path = Greedy;
 			sourceTree = "<group>";
 		};
 		38166BA52885AFB100DD3D41 /* 12865_평범한 배낭 */ = {
@@ -1184,6 +1197,7 @@
 		A755BDA527ACFF93004CADD9 /* Algorithm */ = {
 			isa = PBXGroup;
 			children = (
+				3805173F29947FBB002F7748 /* LeetCode */,
 				38A44C882953FADE0019F349 /* Codility */,
 				38A44C852953F6650019F349 /* NaverMapsIntern */,
 				A7534A2228F713F1006440AA /* ThisIsCodingTest */,
@@ -1716,7 +1730,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3805173E2993D4AA002F7748 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
