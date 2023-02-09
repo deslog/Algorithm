@@ -22,6 +22,7 @@
 		380516A82990DC67002F7748 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		3805173D2993D4AA002F7748 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		3805174129947FC8002F7748 /* 611_valid triangle number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "611_valid triangle number.swift"; sourceTree = "<group>"; };
+		3805174329948BBA002F7748 /* 134_gas station.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "134_gas station.swift"; sourceTree = "<group>"; };
 		38166BA62885AFC300DD3D41 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		38166BAE288AB67000DD3D41 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		38390AD7283F59DA0070EF8F /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -228,6 +229,7 @@
 			isa = PBXGroup;
 			children = (
 				3805174129947FC8002F7748 /* 611_valid triangle number.swift */,
+				3805174329948BBA002F7748 /* 134_gas station.swift */,
 			);
 			path = Greedy;
 			sourceTree = "<group>";
