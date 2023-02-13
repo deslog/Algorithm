@@ -23,6 +23,7 @@
 		3805173D2993D4AA002F7748 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		3805174129947FC8002F7748 /* 611_valid triangle number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "611_valid triangle number.swift"; sourceTree = "<group>"; };
 		3805174329948BBA002F7748 /* 134_gas station.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "134_gas station.swift"; sourceTree = "<group>"; };
+		38051746299A066D002F7748 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		38166BA62885AFC300DD3D41 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		38166BAE288AB67000DD3D41 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		38390AD7283F59DA0070EF8F /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -232,6 +233,15 @@
 				3805174329948BBA002F7748 /* 134_gas station.swift */,
 			);
 			path = Greedy;
+			sourceTree = "<group>";
+		};
+		38051745299A065B002F7748 /* 1157_단어 공부 */ = {
+			isa = PBXGroup;
+			children = (
+				38051746299A066D002F7748 /* main.swift */,
+			);
+			name = "1157_단어 공부";
+			path = "1157_단어 공부";
 			sourceTree = "<group>";
 		};
 		38166BA52885AFB100DD3D41 /* 12865_평범한 배낭 */ = {
@@ -1212,6 +1222,7 @@
 		A755BDAD27ACFFFA004CADD9 /* Boj */ = {
 			isa = PBXGroup;
 			children = (
+				38051745299A065B002F7748 /* 1157_단어 공부 */,
 				380516A72990DC57002F7748 /* 1541_잃어버린 괄호 */,
 				388FDA27298D261200940AA3 /* 1783_병든 나이트 */,
 				388FDA24298D1EEF00940AA3 /* 10610_30 */,
