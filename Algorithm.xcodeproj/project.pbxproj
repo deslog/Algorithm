@@ -6,10 +6,6 @@
 	objectVersion = 55;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		38314D68299DC7D400D37EE4 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38314D67299DC7D400D37EE4 /* main.swift */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXCopyFilesBuildPhase section */
 		A755BDA127ACFF93004CADD9 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -38,6 +34,7 @@
 		38314D61299D266D00D37EE4 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		38314D64299DBB8C00D37EE4 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		38314D67299DC7D400D37EE4 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		38314D6A299DD0C300D37EE4 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		38390AD7283F59DA0070EF8F /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		384712A7283DA6FA00C57870 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		384836AB283BAA550052F100 /* 220523.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 220523.swift; sourceTree = "<group>"; };
@@ -344,6 +341,15 @@
 			);
 			name = "1138_한 줄로 서기";
 			path = "1138_한 줄로 서기";
+			sourceTree = "<group>";
+		};
+		38314D69299DD0BA00D37EE4 /* 14719_빗물 */ = {
+			isa = PBXGroup;
+			children = (
+				38314D6A299DD0C300D37EE4 /* main.swift */,
+			);
+			name = "14719_빗물";
+			path = "14719_빗물";
 			sourceTree = "<group>";
 		};
 		38390AD6283F59CA0070EF8F /* 13913_숨바꼭질4 */ = {
@@ -1306,6 +1312,7 @@
 		A755BDAD27ACFFFA004CADD9 /* Boj */ = {
 			isa = PBXGroup;
 			children = (
+				38314D69299DD0BA00D37EE4 /* 14719_빗물 */,
 				38314D66299DC7C300D37EE4 /* 1138_한 줄로 서기 */,
 				38314D63299DBB8500D37EE4 /* 1913_달팽이 */,
 				38314D60299D266000D37EE4 /* 14467_소가 길을 건너간 이유1 */,
@@ -1835,7 +1842,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				38314D68299DC7D400D37EE4 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
