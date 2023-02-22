@@ -6,6 +6,10 @@
 	objectVersion = 55;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		38BEE8D129A6121800C973B5 /* 음료수 얼려먹기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38BEE8D029A6121800C973B5 /* 음료수 얼려먹기.swift */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXCopyFilesBuildPhase section */
 		A755BDA127ACFF93004CADD9 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -122,6 +126,7 @@
 		38A9ADBE2821A78B002BFB4B /* 220501.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 220501.swift; sourceTree = "<group>"; };
 		38AE08BD281C0DD00035EB0C /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		38AE08C0281C10580035EB0C /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		38BEE8D029A6121800C973B5 /* 음료수 얼려먹기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "음료수 얼려먹기.swift"; sourceTree = "<group>"; };
 		38D0F1852816C8C90074A57B /* 220425.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 220425.swift; sourceTree = "<group>"; };
 		38D3B091282946D20024EF3B /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		38D3B0972829516E0024EF3B /* 220509.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 220509.swift; sourceTree = "<group>"; };
@@ -984,6 +989,14 @@
 			path = "kakao_신고 결과 받기";
 			sourceTree = "<group>";
 		};
+		38BEE8CF29A6120800C973B5 /* DFS+BFS */ = {
+			isa = PBXGroup;
+			children = (
+				38BEE8D029A6121800C973B5 /* 음료수 얼려먹기.swift */,
+			);
+			path = "DFS+BFS";
+			sourceTree = "<group>";
+		};
 		38D0F1842816C8AF0074A57B /* 15651_N과M(3) */ = {
 			isa = PBXGroup;
 			children = (
@@ -1262,6 +1275,7 @@
 		A7534A2228F713F1006440AA /* ThisIsCodingTest */ = {
 			isa = PBXGroup;
 			children = (
+				38BEE8CF29A6120800C973B5 /* DFS+BFS */,
 				A7534A2328F7140A006440AA /* Greedy */,
 			);
 			path = ThisIsCodingTest;
@@ -1842,6 +1856,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				38BEE8D129A6121800C973B5 /* 음료수 얼려먹기.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
