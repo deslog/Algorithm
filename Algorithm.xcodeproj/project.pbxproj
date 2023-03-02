@@ -6,10 +6,6 @@
 	objectVersion = 55;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		38BEE8E929ADCE8C00C973B5 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38BEE8E829ADCE8C00C973B5 /* main.swift */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXCopyFilesBuildPhase section */
 		A755BDA127ACFF93004CADD9 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -135,6 +131,8 @@
 		38BEE8E229AC87DF00C973B5 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		38BEE8E529ADB80800C973B5 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		38BEE8E829ADCE8C00C973B5 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		38BEE8EB29ADE79A00C973B5 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		38BEE8EE29B08E6D00C973B5 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		38D0F1852816C8C90074A57B /* 220425.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 220425.swift; sourceTree = "<group>"; };
 		38D3B091282946D20024EF3B /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		38D3B0972829516E0024EF3B /* 220509.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 220509.swift; sourceTree = "<group>"; };
@@ -951,6 +949,7 @@
 		38AE08B8281C0D5E0035EB0C /* Programmers */ = {
 			isa = PBXGroup;
 			children = (
+				38BEE8ED29B08E5400C973B5 /* 단어변환(lv.3) */,
 				38BEE8D729A8957E00C973B5 /* 타겟넘버(lv.2) */,
 				3805173C2993D4A0002F7748 /* 섬 연결하기(lv.3) */,
 				388FDA21298CF96900940AA3 /* 큰 수 만들기(lv.2) */,
@@ -1061,6 +1060,15 @@
 			);
 			name = "10026_적록색약";
 			path = "10026_적록색약";
+			sourceTree = "<group>";
+		};
+		38BEE8ED29B08E5400C973B5 /* 단어변환(lv.3) */ = {
+			isa = PBXGroup;
+			children = (
+				38BEE8EE29B08E6D00C973B5 /* main.swift */,
+			);
+			name = "단어변환(lv.3)";
+			path = "단어변환(lv.3)";
 			sourceTree = "<group>";
 		};
 		38D0F1842816C8AF0074A57B /* 15651_N과M(3) */ = {
@@ -1927,7 +1935,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				38BEE8E929ADCE8C00C973B5 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
