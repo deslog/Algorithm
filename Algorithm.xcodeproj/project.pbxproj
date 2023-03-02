@@ -1054,6 +1054,15 @@
 			path = "14716_현수막";
 			sourceTree = "<group>";
 		};
+		38BEE8EA29ADE78E00C973B5 /* 10026_적록색약 */ = {
+			isa = PBXGroup;
+			children = (
+				38BEE8EB29ADE79A00C973B5 /* main.swift */,
+			);
+			name = "10026_적록색약";
+			path = "10026_적록색약";
+			sourceTree = "<group>";
+		};
 		38D0F1842816C8AF0074A57B /* 15651_N과M(3) */ = {
 			isa = PBXGroup;
 			children = (
@@ -1383,6 +1392,7 @@
 		A755BDAD27ACFFFA004CADD9 /* Boj */ = {
 			isa = PBXGroup;
 			children = (
+				38BEE8EA29ADE78E00C973B5 /* 10026_적록색약 */,
 				38BEE8E729ADCE8300C973B5 /* 14716_현수막 */,
 				38BEE8E429ADB7FE00C973B5 /* 3184_양 */,
 				38BEE8E129AC87D300C973B5 /* 1743_음식물 피하기 */,
