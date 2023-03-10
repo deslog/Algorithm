@@ -28,8 +28,6 @@ func solution() {
         }
     }
 
-    print(answer)
-}
 
 func checkScnt(arr: [Int]) -> Bool {
     // 다솜(S)가 4명 이상이면 true
