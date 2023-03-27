@@ -6,6 +6,10 @@
 	objectVersion = 55;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		387CD6A229D17F9A008E1150 /* boj_12738_가장 긴 증가하는 부분수열 3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 387CD6A129D17F9A008E1150 /* boj_12738_가장 긴 증가하는 부분수열 3.swift */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXCopyFilesBuildPhase section */
 		A755BDA127ACFF93004CADD9 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -78,6 +82,7 @@
 		387CD69529C5F286008E1150 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		387CD69829CC562C008E1150 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		387CD69B29CC7886008E1150 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		387CD6A129D17F9A008E1150 /* boj_12738_가장 긴 증가하는 부분수열 3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "boj_12738_가장 긴 증가하는 부분수열 3.swift"; sourceTree = "<group>"; };
 		388809B5282FC77D00891435 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		388809B82830D72000891435 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		388809BD2832920500891435 /* 220517.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 220517.swift; sourceTree = "<group>"; };
@@ -708,6 +713,7 @@
 		387CD6A029D17EE0008E1150 /* 12738_가장긴증가하는부분수열3 */ = {
 			isa = PBXGroup;
 			children = (
+				387CD6A129D17F9A008E1150 /* boj_12738_가장 긴 증가하는 부분수열 3.swift */,
 			);
 			name = "12738_가장긴증가하는부분수열3";
 			path = "12738_가장긴증가하는부분수열3";
@@ -2076,6 +2082,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				387CD6A229D17F9A008E1150 /* boj_12738_가장 긴 증가하는 부분수열 3.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
