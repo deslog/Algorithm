@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		387CD6A229D17F9A008E1150 /* boj_12738_가장 긴 증가하는 부분수열 3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 387CD6A129D17F9A008E1150 /* boj_12738_가장 긴 증가하는 부분수열 3.swift */; };
+		387FDE8429D5AC090006B361 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 387FDE8329D5AC090006B361 /* main.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -83,6 +83,7 @@
 		387CD69829CC562C008E1150 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		387CD69B29CC7886008E1150 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		387CD6A129D17F9A008E1150 /* boj_12738_가장 긴 증가하는 부분수열 3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "boj_12738_가장 긴 증가하는 부분수열 3.swift"; sourceTree = "<group>"; };
+		387FDE8329D5AC090006B361 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		388809B5282FC77D00891435 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		388809B82830D72000891435 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		388809BD2832920500891435 /* 220517.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 220517.swift; sourceTree = "<group>"; };
@@ -717,6 +718,15 @@
 			);
 			name = "12738_가장긴증가하는부분수열3";
 			path = "12738_가장긴증가하는부분수열3";
+			sourceTree = "<group>";
+		};
+		387FDE8229D5ABF30006B361 /* 10870_피보나치 수 5 */ = {
+			isa = PBXGroup;
+			children = (
+				387FDE8329D5AC090006B361 /* main.swift */,
+			);
+			name = "10870_피보나치 수 5";
+			path = "10870_피보나치 수열";
 			sourceTree = "<group>";
 		};
 		388809B4282FC76200891435 /* 1260_DFS와 BFS */ = {
@@ -1536,6 +1546,7 @@
 		A755BDAD27ACFFFA004CADD9 /* Boj */ = {
 			isa = PBXGroup;
 			children = (
+				387FDE8229D5ABF30006B361 /* 10870_피보나치 수 5 */,
 				387CD6A029D17EE0008E1150 /* 12738_가장긴증가하는부분수열3 */,
 				387CD69A29CC787D008E1150 /* 1300_K번째 수 */,
 				387CD69129C5DD8D008E1150 /* 2110_공유기 설치 */,
@@ -2082,7 +2093,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				387CD6A229D17F9A008E1150 /* boj_12738_가장 긴 증가하는 부분수열 3.swift in Sources */,
+				387FDE8429D5AC090006B361 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
