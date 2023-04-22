@@ -13,8 +13,14 @@
 
 <br>
 
-이코테 문제집,백준 알고리즘 기초 강의, 알고리즘 중급 강의, 코딩테스트 문제 모음을 기준으로 혼자 공부하고 있습니다. (강의구매X, 문제 순서만 참고)
-가끔 가다가 프로그래머스 문제도 풉니다. :) 
+## 📁 deslog의 알자DB (알고리즘 자료구조)
+
+| <center> 분류 </center> | <center> 주제 </center> |<center> 링크 </center>|
+|--|--|--|
+| `정렬` | 병합정렬 | [Link](https://desert-opossum-095.notion.site/00decb83aa5543cbbe1a684c2876eef9) |
+
+
+
 
 ## 🧑🏻‍💻 백준
 
