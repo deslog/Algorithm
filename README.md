@@ -1,8 +1,8 @@
 # Algorithm
 ## Algorithm (Swift)
-👩🏻‍💻 스위프트(Swift)언어로 🍃**1일 1solve**🍃 을 목표로 삼고 공부중입니다.<br>
+👩🏻‍💻 `Swift`언어를 위주로 풀이를 하고, 가끔 `python` 코드로 올릴 수 있습니다.<br>
 🔎 보고싶은 문제의 번호를 command+F 로 검색해서 찾아보세요!<br>
-🥅 2022년의 목표는 200문제 이상 solve 하는 것 입니다. 
+🍀 코딩테스트 불합격은 그만... 💯
 
 <br>
 
@@ -13,12 +13,13 @@
 
 <br>
 
-백준 알고리즘 기초 강의, 알고리즘 중급 강의, 코딩테스트 문제 모음을 기준으로 혼자 공부하고 있습니다. (강의구매X, 문제 순서만 참고)
+이코테 문제집,백준 알고리즘 기초 강의, 알고리즘 중급 강의, 코딩테스트 문제 모음을 기준으로 혼자 공부하고 있습니다. (강의구매X, 문제 순서만 참고)
 가끔 가다가 프로그래머스 문제도 풉니다. :) 
 
-### 🧑🏻‍💻 백준
-*<span style="color:red">(현재진행중)</span> [백준 알고리즘 기초 1/2 강의](https://code.plus/course/41)
+## 🧑🏻‍💻 백준
+
 <br>
+
 | <center>순번</center> | <center>날짜</center> |<center>분류</center>|  <center>문제</center> |  <center>소스코드</center> | <center>오답노트</center>|
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 |1|**<center>2022.01.16</center>** | 자료구조 | <center>[백준 1874 스택 수열](https://www.acmicpc.net/problem/1874) </center>|*[Code](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/10828_%EC%8A%A4%ED%83%9D(stack)/main.swift)* ||
@@ -93,6 +94,29 @@
 |70|**<center>2022.08.31</center>** | 그리디(탐욕) | <center>[백준 1931 회의실 배정](https://www.acmicpc.net/problem/1931) </center> |*[Code](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/1931_%ED%9A%8C%EC%9D%98%EC%8B%A4%20%EB%B0%B0%EC%A0%95/main.swift)* | 
 |71|**<center>2022.09.04</center>** | 이분탐색 | <center>[백준 1654 랜선 자르기](https://www.acmicpc.net/problem/1654) </center> |*[Code](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/1654_%EB%9E%9C%EC%84%A0%20%EC%9E%90%EB%A5%B4%EA%B8%B0/main.swift)* | 
 |72|**<center>2022.09.19</center>** | DFS | <center>[백준 11403 경로찾기](https://www.acmicpc.net/problem/11403) </center> |*[Code](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/11403_%EA%B2%BD%EB%A1%9C%EC%B0%BE%EA%B8%B0/main.swift)* | 
+|73|**<center>2022.12.18</center>** | 기초수학 | <center>[백준 4375 1](https://www.acmicpc.net/problem/4375) </center> |*[Code](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/4375_1/main.swift)* |
+|74|**<center>2022.12.18</center>** | 기초수학 | <center>[백준 10430 나머지](https://www.acmicpc.net/problem/10430) </center> |*[Code](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/10430_%EB%82%98%EB%A8%B8%EC%A7%80/main.swift)* |
+|75|**<center>2022.12.23</center>** | 기초수학 | <center>[백준 17425 약수의 합](https://www.acmicpc.net/problem/17425) </center> |*[Code](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/17425_%EC%95%BD%EC%88%98%EC%9D%98%ED%95%A9/main.swift)* |
+|76|**<center>2022.12.23</center>** | 기초수학 | <center>[백준 17427 약수의 합2](https://www.acmicpc.net/problem/17427) </center> |*[Code](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/17427_%EC%95%BD%EC%88%98%EC%9D%98%ED%95%A92/main.swift)* |
+|77|**<center>2022.12.23</center>** | 기초수학 | <center>[백준 1037 약수](https://www.acmicpc.net/problem/1037) </center> |*[Code](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/1023_%EC%95%BD%EC%88%98/main.swift)* |
+|78|**<center>2022.12.25</center>** | 기초수학 | <center>[백준 2609 최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) </center> |*[Code](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/2609_%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98/main.swift)* |
+|79|**<center>2022.12.26</center>** | 기초수학 | <center>[백준 1978 소수 찾기](https://www.acmicpc.net/problem/1978) </center> |*[Code](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/1978_%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0/main.swift)* |
+|80|**<center>2022.12.27</center>** | 기초수학 | <center>[백준 6588 골드바흐의 추측](https://www.acmicpc.net/problem/6588) </center> |*[Code](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/6588_%EA%B3%A8%EB%93%9C%EB%B0%94%ED%9D%90%EC%9D%98%20%EC%B6%94%EC%B8%A1/main.swift)* |
+|81|**<center>2022.12.27</center>** | 기초수학 | <center>[백준 1929 소수 구하기](https://www.acmicpc.net/problem/1929) </center> |*[Code](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/1929_%EC%86%8C%EC%88%98%EA%B5%AC%ED%95%98%EA%B8%B0/main.swift)* |
+|82|**<center>2022.12.28</center>** | 완전탐색 | <center>[백준 2309 일곱 난쟁이](https://www.acmicpc.net/problem/2309) </center> |*[Code](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/2309_%EC%9D%BC%EA%B3%B1%EB%82%9C%EC%9F%81%EC%9D%B4'/main.swift)* | 두번재 풀이 |
+|83|**<center>2022.12.28</center>** | 완전탐색 | <center>[백준 3085 사탕게임](https://www.acmicpc.net/problem/3085) </center> |*[Code](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/3085_%EC%82%AC%ED%83%95%EA%B2%8C%EC%9E%84/main.swift)* | 두번째 풀이 |
+|84|**<center>2022.12.29</center>** | 완전탐색 | <center>[백준 1476 날짜계산](https://www.acmicpc.net/problem/1476) </center> |*[Code](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/1476_%EB%82%A0%EC%A7%9C%EA%B3%84%EC%82%B0/main.swift)* |
+|85|**<center>2022.12.29</center>** | 완전탐색 | <center>[백준 1107 리모컨](https://www.acmicpc.net/problem/1107) </center> |*[Code](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/1107_%EB%A6%AC%EB%AA%A8%EC%BB%A8/main.swift)* | 두번째 풀이 |
+|86|**<center>2022.12.30</center>** | 완전탐색 | <center>[백준 114500 테트로미노](https://www.acmicpc.net/problem/14500) </center> |*[Code](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/14500_%ED%85%8C%ED%8A%B8%EB%A1%9C%EB%AF%B8%EB%85%B8/main.swift)* |
+|87|**<center>2022.01.01</center>** | 완전탐색 | <center>[백준 9095 1,2,3 더하기](https://www.acmicpc.net/problem/9095) </center> |*[Code](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/9095_1%2C2%2C3%20%EB%8D%94%ED%95%98%EA%B8%B0/main.swift)* | 두번쨰 풀이|
+
+
+
+
+
+
+
+
 
 
 
