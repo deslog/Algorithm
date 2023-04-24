@@ -15,14 +15,36 @@
 
 ## 📁 deslog의 알자DB (알고리즘 자료구조)
 
+| <center> 분류 </center> | <center> 주제 </center> |<center> 링크 </center>| <center> 참고 </center> |
+|--|--|--|--|
+| `정렬` | 병합정렬 | [Link](https://desert-opossum-095.notion.site/00decb83aa5543cbbe1a684c2876eef9) | 이코테 |
+| `정렬` | 계수정렬 | [Link](https://desert-opossum-095.notion.site/3186c4dec8ff4777894f6dfb14b2b0b2) | 이코테 |
+| `정렬` | 퀵정렬 | [Link](https://desert-opossum-095.notion.site/e1e1d9bc71c84265888ba41f133dc14a) | 이코테 |
+| `정렬` | 삽입정렬 | [Link](https://desert-opossum-095.notion.site/b962ec3c29fb45aab515af5765e7c784) | 이코테 |
+| `정렬` | 선택정렬 | [Link](https://desert-opossum-095.notion.site/48dc95954c7946088b33416fe4f5cbc3) | 이코테 |
+| `그래프` | BFS + DFS | [Link](https://desert-opossum-095.notion.site/DFS-BFS-37882f42989c47d781614fd7d9ed9332) | 이코테 |
+| `그리디` | 그리디 | [Link](https://desert-opossum-095.notion.site/f801add604124b87b166fd89d60acf83) | 이코테 |
+| `탐색` | 이진탐색 | [Link](https://desert-opossum-095.notion.site/910222592e57472989c58a302f325040) | 이코테 |
+| `DP` | `DP` | [Link](https://desert-opossum-095.notion.site/DP-8180a955db954132b9c70b05678cfa15) | 이코테 |
+
+<br>
+
+## 🧐 알,자 숨참고 deep dive 
 | <center> 분류 </center> | <center> 주제 </center> |<center> 링크 </center>|
 |--|--|--|
-| `정렬` | 병합정렬 | [Link](https://desert-opossum-095.notion.site/00decb83aa5543cbbe1a684c2876eef9) |
+| `그래프` | BFS + DFS에 대한 고찰 | [큐/스택을 사용하는 이유, 최단경로에 사용되는 이유 등 모든것을 알아보자](https://didu-story.tistory.com/422) |
+| `그리디` | 그리디 문제 핵심 point에 대해 생각하기 | [이 문제는 왜 그리디일까?](https://desert-opossum-095.notion.site/point-821e2042624f4f749008ac38768665b6) |
+| `정렬` | 정렬을 구현할 때 사용하는 sort() | [Swift의 Sort() 메서드에 대하여](https://didu-story.tistory.com/430)|
+| `탐색` `정렬` | '정렬'문제가 단독으로 나오지 않지만, 배워야하는 이유 | [정렬을 왜 종류별로 알아놔야할까?](https://desert-opossum-095.notion.site/feat-c17f7bc633334c9486283d9fd3852373)|
+| `자료구조` | 구현할 때 메모리, 시간초과가 나면 Array대신 set을 이용해보자 | [Array 보다 Set이 더 빠른 이유](https://didu-story.tistory.com/431) |
 
-
-
+<br>
 
 ## 🧑🏻‍💻 백준
+
+<details>
+<summary> 토글을 열고 Command + F 로 백준 번호를 검색해서 찾아보세용 🔎 </summary>
+<div markdown="1">
 
 <br>
 
@@ -114,21 +136,33 @@
 |84|**<center>2022.12.29</center>** | 완전탐색 | <center>[백준 1476 날짜계산](https://www.acmicpc.net/problem/1476) </center> |*[Code](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/1476_%EB%82%A0%EC%A7%9C%EA%B3%84%EC%82%B0/main.swift)* |
 |85|**<center>2022.12.29</center>** | 완전탐색 | <center>[백준 1107 리모컨](https://www.acmicpc.net/problem/1107) </center> |*[Code](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/1107_%EB%A6%AC%EB%AA%A8%EC%BB%A8/main.swift)* | 두번째 풀이 |
 |86|**<center>2022.12.30</center>** | 완전탐색 | <center>[백준 114500 테트로미노](https://www.acmicpc.net/problem/14500) </center> |*[Code](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/14500_%ED%85%8C%ED%8A%B8%EB%A1%9C%EB%AF%B8%EB%85%B8/main.swift)* |
-|87|**<center>2022.01.01</center>** | 완전탐색 | <center>[백준 9095 1,2,3 더하기](https://www.acmicpc.net/problem/9095) </center> |*[Code](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/9095_1%2C2%2C3%20%EB%8D%94%ED%95%98%EA%B8%B0/main.swift)* | 두번쨰 풀이|
+|87|**<center>2022.01.01</center>** | 완전탐색 | <center>[백준 6064 카잉달력](https://www.acmicpc.net/problem/6064) </center> |*[Code](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/6064_%EC%B9%B4%EC%9E%89%EB%8B%AC%EB%A0%A5/main.swift)* |
+|88|**<center>2022.01.05</center>** | 완전탐색 | <center>[백준 9095 1,2,3 더하기](https://www.acmicpc.net/problem/9095) </center> |*[Code](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/9095_1%2C2%2C3%20%EB%8D%94%ED%95%98%EA%B8%B0/main.swift)* | 두번쨰 풀이 |
+|89|**<center>2022.01.05</center>** | 완전탐색 | <center>[백준 1748 수 이어 쓰기](https://www.acmicpc.net/problem/1748) </center> |*[Code](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/1748_%EC%88%98%EC%9D%B4%EC%96%B4%EC%93%B0%EA%B8%B01/220420.swift)* | [두번쨰 풀이](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/1748_%EC%88%98%EC%9D%B4%EC%96%B4%EC%93%B0%EA%B8%B01/main.swift) |
+|90|**<center>2022.01.10</center>** | 완전탐색 | <center>[백준 15649 N과 M(1)](https://www.acmicpc.net/problem/15649) </center> |*[Code](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/15649_N%EA%B3%BCM(1)/main.swift)* |
+|91|**<center>2022.01.11</center>** | 완전탐색 | <center>[백준 15650 N과 M(2)](https://www.acmicpc.net/problem/15650) </center> |*[Code](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/15650_N%EA%B3%BCM(2)/main.swift)* |
+|92|**<center>2022.01.12</center>** | 완전탐색 | <center>[백준 15651 N과 M(3)](https://www.acmicpc.net/problem/15651) </center> |*[Code](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/15651_N%EA%B3%BCM(3)/220425.swift)* | [두번째 풀이](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/15651_N%EA%B3%BCM(3)/main.swift)|
+|93|**<center>2022.01.12</center>** | 완전탐색 | <center>[백준 15652 N과 M(4)](https://www.acmicpc.net/problem/15652) </center> |*[Code](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/15652_N%EA%B3%BC%20M(4)/main.swift)* |
+|94|**<center>2022.01.13</center>** | 완전탐색 | <center>[백준 15654 N과 M(5)](https://www.acmicpc.net/problem/15654) </center> |*[Code](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/15654_N%EA%B3%BCM(5)/220501.swift)* | [두번째 풀이](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/15654_N%EA%B3%BCM(5)/main.swift)|
+|95|**<center>2022.01.14</center>** | 완전탐색 | <center>[백준 15655 N과 M(6)](https://www.acmicpc.net/problem/15655) </center> |*[Code](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/15655_N%EA%B3%BCM(6)/main.swift)* |
+|96|**<center>2022.01.14</center>** | 완전탐색 | <center>[백준 15656 N과 M(7)](https://www.acmicpc.net/problem/15656) </center> |*[Code](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/15656_N%EA%B3%BCM(7)/main.swift)* |
+|97|**<center>2022.01.14</center>** | 완전탐색 | <center>[백준 15657 N과 M(8)](https://www.acmicpc.net/problem/15657) </center> |*[Code](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/15657_N%EA%B3%BCM(8)/main.swift)* |
+|98|**<center>2022.01.15</center>** | 완전탐색, DFS, 백트래킹 | <center>[백준 18290 NM과 K(1)](https://www.acmicpc.net/problem/18290) </center> |*[Code](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/18290_NM%EA%B3%BCK(1)/main.swift)* |
+|99|**<center>2022.01.18</center>** | 완전탐색, 재귀, DFS | <center>[백준 1759 암호 만들기](https://www.acmicpc.net/problem/1759) </center> |*[Code](https://github.com/deslog/Algorithm/blob/main/Algorithm/Boj/1759_%EC%95%94%ED%98%B8%20%EB%A7%8C%EB%93%A4%EA%B8%B0/main.swift)* | 두번째 풀이 |
 
 
 
-
-
-
-
-
-
+</div>
+</details>
 
 
 
 ### 🧑🏻‍💻 프로그래머스
-프로그래머스는 끌리는 문제, 그리고 재밌는 문제를 스터디원들과 함께 골라서 풉니다!
+
+<details>
+<summary> 토글을 열고 Command + F로 제목을 검색해서 찾아보세용 🔎 </summary>
+<div markdown="1">
+
 | <center>순번</center> | <center>날짜</center> |<center>분류</center>|  <center>문제</center> |  <center>소스코드</center> | <center>오답노트</center> |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 |1|**<center>2022.04.30</center>** | 카카오 | <center>[Kakao - 신고결과받기](https://programmers.co.kr/learn/courses/30/lessons/92334) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Programmers/kakao_%EC%8B%A0%EA%B3%A0%20%EA%B2%B0%EA%B3%BC%20%EB%B0%9B%EA%B8%B0/main.swift)* |
@@ -147,16 +181,19 @@
 |14|**<center>2022.09.21</center>** | 힙 | <center>[디스크컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627) </center> |*[link](https://github.com/deslog/Algorithm/blob/main/Algorithm/Programmers/디스크컨트롤러/main.swift)* | ✅ 다시 |
 
 
+</div>
+</details>
+
 
 <br>
 
-### 👉🏻 아래 강의에 나온 문제를 순서대로 풀 예정입니다. 코딩테스트 합격을 위하여!
-### 2022년 하반기 부터는 순서에 따르지 않고 카카오 등 다른 유형의 문제도 많이 풀 예정입니다.
+## 💯 따라해보면 좋은 알고리즘 문제집 
+
+* [바킹독 문제집](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md) `✔️ 현재 이 문제집으로 푸는중 🍀`
 * [백준 알고리즘 기초 2/2 강의](https://code.plus/course/42)
 * [알고리즘 중급 1/3](https://code.plus/course/43)
 * [알고리즘 중급 2/3](https://code.plus/course/44)
 * [코딩테스트 준비 - 연습](https://code.plus/course/52)
 * [코딩테스트 준비 - 문제](https://code.plus/course/53) 
 
-<br> 여기까지 풀고 코딩테스트 문제집 반복, 취약 분류 문제 반복 & 프로그래머스로 넘어갈 예정!
 
