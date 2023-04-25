@@ -6,6 +6,10 @@
 	objectVersion = 55;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		38EF580129F7E02B00A16EF6 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38EF580029F7E02B00A16EF6 /* main.swift */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXCopyFilesBuildPhase section */
 		A755BDA127ACFF93004CADD9 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -19,7 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		380516A82990DC67002F7748 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		380516A82990DC67002F7748 /* 230206.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 230206.swift; sourceTree = "<group>"; };
 		3805173D2993D4AA002F7748 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		3805174129947FC8002F7748 /* 611_valid triangle number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "611_valid triangle number.swift"; sourceTree = "<group>"; };
 		3805174329948BBA002F7748 /* 134_gas station.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "134_gas station.swift"; sourceTree = "<group>"; };
@@ -157,6 +161,7 @@
 		38EF57F729F64BC200A16EF6 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		38EF57FA29F7B8AC00A16EF6 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		38EF57FD29F7BC7100A16EF6 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		38EF580029F7E02B00A16EF6 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		38F73C8D28338E74002C03CF /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A701CFF027D9CB7A00DBABAA /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A721D54928058293000DABD5 /* 220412.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 220412.swift; sourceTree = "<group>"; };
@@ -241,7 +246,8 @@
 		380516A72990DC57002F7748 /* 1541_잃어버린 괄호 */ = {
 			isa = PBXGroup;
 			children = (
-				380516A82990DC67002F7748 /* main.swift */,
+				380516A82990DC67002F7748 /* 230206.swift */,
+				38EF580029F7E02B00A16EF6 /* main.swift */,
 			);
 			name = "1541_잃어버린 괄호";
 			path = "1541_잃어버린 괄호";
@@ -2114,6 +2120,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				38EF580129F7E02B00A16EF6 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
