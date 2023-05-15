@@ -35,80 +35,52 @@ func solution() -> Int {
         }
     }
 
-    var max = 0
-    var temp = 0
-    var answerArr = [Int]()
-    let start = 301
-    let end = 1130
-    var idx = 0
-
-    // 301부터 피어있는 꽃이 없는 경우
-    if flowers[idx].0 > 301 {
+    if flowers[0].0 > 301 {
         return 0
     }
 
-    // 입력받은 꽃이 1개인 경우
-    if flowers.count == 1 {
-        if flowers[idx].0 == start && flowers[idx].1 > end {
-            return 1
+    var start = flowers[0].0
+    var end = flowers[0].1
+    var flowerList = [0] // 첫번째꽃 무조건 선택 (이거 수정해야함. 만약 301보다 이후면?)
+    var tempEnd = 0
+    var idx = 0
+    var flag = false
+
+    while idx < flowers.count {
+        if end > 1130 {
+            // 답은 무조건 1201이상이어야함.
+            return flowerList.count
+        }
+
+        for i in idx+1..<flowers.count {
+            if flowers[i].0 > end { // 다음꽃이 end보다 늦게 피면, 나가도돼
+                break
+            }
+
+            if flowers[i].0 == start {
+                continue
+            } else if flowers[i].0 > start, flowers[i].0 <= end, tempEnd < flowers[i].1 {
+                // 순회중인 꽃의 시작점이 범위내에 있고, 이전에 비교해온 tempEnd보다 길면 그거선택해야하니까 temp 갱신
+                flag = true
+                tempEnd = flowers[i].1
+                idx = i // idx갱신해줘야해 지금 그 위치에있는 꽃 선택했다고 알려줘야해.
+            } else if flowers[i].1 <= end { // end보다 짧으면 볼필요도 없음
+                continue
+            }
+        }
+
+        if flag {
+            end = tempEnd
+            start = flowers[idx].0
+            flowerList.append(idx)
+            flag = false
         } else {
             return 0
         }
     }
 
-    while idx < flowers.count {
-        // 어차피 정렬, 맨처음거 일단선택
-        if max > end {
-            // max가 12월1일 이상이면 break, 더 볼 필요없음
-            break
-        }
-
-        // 첫번째꺼, 301이후니까 무조건 선택
-        if idx == 0 {
-            max = flowers[idx].1 // 지는날이 max
-            idx += 1
-            answerArr.append(max)
-            continue
-        }
-
-        // 지금 최종으로 지는날 max보다 지는날이 앞서면 그냥 pass
-        if flowers[idx].1 < max {
-            idx += 1
-            continue
-        }
-
-        // 피는날은 max보다 작고, 지는날은 max보다 크면 (우리가 원하는 범위내)
-        if flowers[idx].0 <= max, flowers[idx].1 > max {
-            // 지금까지 순회한 꽃들 다음으로 탐색하면서 선택 가능성이 있는 꽃 찾아줌
-            // 선택가능성? -> 피는날이 범위내에 들어오면서, 지는날은 더 늦는 것
-            // 일단 temp에 임시로 지는날 저장해주고, 이 temp보다 큰애 찾아줘
-            temp = flowers[idx].1
-
-            for j in idx+1..<flowers.count {
-                // 피는날은 우리가 만족하는 범위내고, 지는날은 현재 입력받은 temp보다 크면?
-                if flowers[j].0 <= max, flowers[j].1 > temp {
-                    temp = flowers[j].1
-                } else {
-                    break // 어차피 정렬을 해뒀기 때문에 위에 만족 안하면 pass해주는게 맞음
-                }
-            }
-
-            max = temp
-            answerArr.append(max)
-        }
-
-        idx += 1
-    }
-
-    print(answerArr)
-
-    // 무조건 12월1일 이상으로 끝나야 카운트 가능
-    if answerArr[answerArr.count-1] <= end {
-        print("여기???")
-        return 0
-    }
-
-    return answerArr.count
+    return flowerList.count
 }
 
 print(solution())
+
